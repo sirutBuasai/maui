@@ -69,8 +69,8 @@
 
 | Time | Activity | Type | Details |
 |------|----------|------|---------|
-| 6:30 AM | 🗓️ Drive to Ma'alaea Harbor | Planned | ~15-20 min from Kihei. Paid parking at harbor (~$2). |
-| 7:30 AM | 🗓️ Check in for snorkel tour | Planned | Check in at Ma'alaea Harbor, North Dock by 7:30am. Look for the large white catamaran with black and gold trim. |
+| 6:30 AM | 🗓️ Drive to Ma'alaea Harbor | Planned | ~15-20 min from Kihei. Paid parking at harbor. |
+| 7:30 AM | 🗓️ Check in for snorkel tour | Planned | Check in at 130 Maalaea Rd, Wailuku, HI 96793 (Ma'alaea Harbor, North Dock) by 7:30am. Look for the large white catamaran with black and gold trim. |
 | 8:00 AM | 🗓️ Turtle Snorkeling — Pride of Maui | Planned | 5 hrs. Molokini Crater + Turtle Town. Includes breakfast, BBQ lunch, open bar after snorkeling, snorkel gear, water slide. 65ft catamaran. Departs Ma'alaea Harbor, North Dock. March = bonus whale watching. [TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g29220-d16822053-Maui_Molokini_and_Turtle_Town_Snorkeling_aboard_Pride_of_Maui-Maui_Hawaii.html) |
 | 1:00 PM | 🗓️ Return to Ma'alaea Harbor | Planned | — |
 | 1:15 PM | 🗓️ Drive back to Kihei | Planned | ~15-20 min |
