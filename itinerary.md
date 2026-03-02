@@ -65,8 +65,24 @@
 
 ---
 
-## Thursday, March 12 — Road to Hana 🌿
-*Route: Kihei → Paia → Hana Highway east → Hana → Kipahulu → return same route (classic clockwise, best on Thu for less traffic)*
+## Thursday, March 12 — Snorkeling + Beach Biking 🐢🚲
+*Route: Kihei → Ma'alaea Harbor (morning) → Kihei (afternoon) — all south/central Maui*
+
+| Time | Activity | Type | Details |
+|------|----------|------|---------|
+| 6:30 AM | 🔄 Drive to Ma'alaea Harbor | Floating | ~15-20 min from Kihei. Paid parking at harbor (~$2). |
+| 7:30 AM | 🗓️ Check in for snorkel tour | Planned | Check in at Ma'alaea Harbor, North Dock by 7:30am. Look for the large white catamaran with black and gold trim. |
+| 8:00 AM | 🔄 Turtle Snorkeling — Pride of Maui | Floating | 5 hrs. Molokini Crater + Turtle Town. Includes breakfast, BBQ lunch, open bar after snorkeling, snorkel gear, water slide. 65ft catamaran. Departs Ma'alaea Harbor, North Dock. March = bonus whale watching. [TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g29220-d16822053-Maui_Molokini_and_Turtle_Town_Snorkeling_aboard_Pride_of_Maui-Maui_Hawaii.html) |
+| 1:00 PM | 🗓️ Return to Ma'alaea Harbor | Planned | — |
+| 1:15 PM | 🗓️ Drive back to Kihei | Planned | ~15-20 min |
+| 1:30 PM | ⬜ FREE SLOT | — | ~1.5 hours. Rest, shower, grab a snack. |
+| 3:00 PM | 🔄 Beach Biking | Floating | Rent cruiser bikes from Maui Sunriders (1847 S. Kihei Rd, opens 9am, $25/day). Ride the South Kihei Road bike lane → Kalama Park coastal path → Charley Young Beach area. ~5-6mi round trip, 1-1.5 hrs with stops. [Maui Sunriders](https://mauisunriders.com/maui-bike-rentals/maui-cruiser-bike-rentals/) |
+| 4:30 PM | ⬜ FREE SLOT | — | Evening free. Beach time, dinner in Kihei. Relaxed day after friends arrived yesterday. |
+
+---
+
+## Friday, March 13 — Road to Hana 🌿
+*Route: Kihei → Paia → Hana Highway east → Hana → Kipahulu → return same route (classic clockwise)*
 
 | Time | Activity | Type | Details |
 |------|----------|------|---------|
@@ -89,23 +105,7 @@
 
 > ⚠️ **Why not the back road (loop)?** The southern route past Kipahulu (Hwy 31/Piilani Hwy) is shorter in distance but has unpaved sections, no guardrails, and blind one-lane curves — especially rough between Kipahulu and Kaupo. Most rental companies prohibit this road and driving it can void your insurance. With a ~4:15pm departure, you'd hit the worst section near dusk with no cell service. Going back via Hana Highway is fully paved, familiar from the morning, and safer. The loop only makes sense if leaving Kipahulu by ~2pm with plenty of daylight and a rental company that allows it.
 
-> ⚠️ **Action items:** Book Wai'anapanapa reservation ~30 days ahead (opens ~Feb 10) at [gowaianapanapa.com](https://www.gowaianapanapa.com). Target Morning II slot (10am-12:30pm).
-
----
-
-## Friday, March 13 — Snorkeling + Beach Biking 🐢🚲
-*Route: Kihei → Ma'alaea Harbor (morning) → Kihei (afternoon) — all south/central Maui*
-
-| Time | Activity | Type | Details |
-|------|----------|------|---------|
-| 6:30 AM | 🔄 Drive to Ma'alaea Harbor | Floating | ~15-20 min from Kihei. Paid parking at harbor. |
-| 7:30 AM | 🗓️ Check in for snorkel tour | Planned | Check in at Ma'alaea Harbor, North Dock by 7:30am. Look for the large white catamaran with black and gold trim. |
-| 8:00 AM | 🔄 Turtle Snorkeling — Pride of Maui | Floating | 5 hrs. Molokini Crater + Turtle Town. Includes breakfast, BBQ lunch, open bar after snorkeling, snorkel gear, water slide. 65ft catamaran. Departs Ma'alaea Harbor, North Dock. March = bonus whale watching. [TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g29220-d16822053-Maui_Molokini_and_Turtle_Town_Snorkeling_aboard_Pride_of_Maui-Maui_Hawaii.html) |
-| 1:00 PM | 🗓️ Return to Ma'alaea Harbor | Planned | — |
-| 1:15 PM | 🗓️ Drive back to Kihei | Planned | ~15-20 min |
-| 1:30 PM | ⬜ FREE SLOT | — | ~1.5 hours. Rest, shower, grab a snack. |
-| 3:00 PM | 🔄 Beach Biking | Floating | Rent cruiser bikes from Maui Sunriders (1847 S. Kihei Rd, opens 9am, $25/day). Ride the South Kihei Road bike lane → Kalama Park coastal path → Charley Young Beach area. ~5-6mi round trip, 1-1.5 hrs with stops. [Maui Sunriders](https://mauisunriders.com/maui-bike-rentals/maui-cruiser-bike-rentals/) |
-| 4:30 PM | ⬜ FREE SLOT | — | Evening free. Beach time, dinner in Kihei. Relaxed day to recover from Road to Hana. |
+> ⚠️ **Action items:** Book Wai'anapanapa reservation ~30 days ahead (opens ~Feb 11) at [gowaianapanapa.com](https://www.gowaianapanapa.com). Target Morning II slot (10am-12:30pm).
 
 ---
 
@@ -140,7 +140,7 @@
 | 9:15 AM | 📌 Whale Watching — Dive Maui | Booked | 2 hrs. Max 20 guests. March = peak whale season, sightings guaranteed or money back. Departs from Mala Ramp. [TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g29220-d19423275-Whale_Watching_Maui_2_Hour_Small_Group_Raft_Tour_from_Lahaina-Maui_Hawaii.html) |
 | 11:15 AM | 🗓️ Drive back to Kihei | Planned | ~45-60 min |
 | 12:00 PM | ⬜ FREE SLOT | — | Lunch + transition to beach day |
-| 12:30 PM | 🗓️ Beach Afternoon | Planned | Choose your vibe |
+| 12:30 PM | 🗓️ Beach Afternoon | Planned | Choose your vibe: |
 | 4:00 PM | ⬜ FREE SLOT | — | ~3 hours. Shopping in Kihei or Wailea. Dinner out. |
 
 ### Beach Options for 3/15
@@ -174,7 +174,7 @@
 | Action | When to Do | Link |
 |--------|-----------|------|
 | Book Iao Valley reservation (1.5hr slot) | ~Feb 7 (30 days ahead) | [gostateparks.hawaii.gov/iao-valley](https://gostateparks.hawaii.gov/iao-valley) |
-| Book Wai'anapanapa Black Sand Beach (Morning II slot) | ~Feb 10 (30 days ahead) | [gowaianapanapa.com](https://www.gowaianapanapa.com) |
+| Book Wai'anapanapa Black Sand Beach (Morning II slot) | ~Feb 11 (30 days ahead) | [gowaianapanapa.com](https://www.gowaianapanapa.com) |
 | Confirm Ho'omana Spa 4:15pm Tue appointment | ASAP | Call (808) 698-5465 |
 | Book surf lesson (if doing) | 1-2 weeks ahead | [mauisurfinglessons.com](https://mauisurfinglessons.com/) |
 
@@ -195,10 +195,10 @@
 - **3/9:** Linear route — OGG → Kahului (Foodland) → Iao Valley (west) → Kihei (south) → Wailea (south). No backtracking.
 - **3/10:** Efficient loop — Kihei → north shore (Twin Falls) → upcountry (Ho'omana Spa in Makawao) → Kihei. Spa is between Twin Falls and Kihei.
 - **3/11:** Simple round trip — Kihei → OGG → Kihei.
-- **3/12:** Road to Hana — Scheduled on Thursday for lighter traffic. Full day, classic clockwise route.
-- **3/13:** All south/central Maui — Snorkel at Ma'alaea (15 min from Kihei), return midday, beach biking in Kihei afternoon. Relaxed recovery day after Road to Hana.
+- **3/12:** All south/central Maui — Snorkel at Ma'alaea (15 min from Kihei), return midday, beach biking in Kihei afternoon. Relaxed first full day with friends.
+- **3/13:** Road to Hana — Full day, classic clockwise route. Friday is still lighter traffic than Saturday.
 - **3/14:** Kihei → summit — Surf lesson in Kihei morning, then drive to Haleakala for hiking + sunset + stargazing. Sliding Sands trail before sunset.
 - **3/15:** Out-and-back to west side — Kihei → Lahaina for whale watching (~45-60 min each way via HI-30), then Kihei/Wailea beaches. Allow extra time for Lahaina traffic.
 - **3/16:** Direct — Kihei → OGG.
 
-> **Note:** Haleakala NP entry ($30/vehicle) is valid for 3 days. If you visit Kipahulu on 3/12 (Road to Hana), keep your receipt — it covers Haleakala Summit on 3/14 for free.
+> **Note:** Haleakala NP entry ($30/vehicle) is valid for 3 days. If you visit Kipahulu on 3/13 (Road to Hana), keep your receipt — it covers Haleakala Summit on 3/14 for free.
