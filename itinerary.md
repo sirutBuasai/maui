@@ -45,7 +45,7 @@
 | 1:00 PM | 🗓️ Twin Falls — Hike + Swim | Planned | Open daily (except 1st Sat/month). Gates 7:10am, last entry 4:30pm. $10 parking (55 spots, first-come). Hike both falls + swim ~2 hrs. Bring water shoes, swimsuit, towel. [Website](https://www.twinfallsmaui.net/) · [AllTrails](https://www.alltrails.com/trail/hawaii/maui/twin-falls-trail) |
 | 3:15 PM | 🗓️ Drive to Ho'omana Spa | Planned | ~25-35 min from Twin Falls. Head directly to spa — it's on the way back toward Kihei (upcountry Makawao). |
 | 4:00 PM | 🗓️ Arrive at Ho'omana Spa | Planned | 1550 Piiholo Rd, Makawao. Arrive 15 min early for check-in. [Website](https://hoomanaspamaui.com) |
-| 4:15 PM | 📌 Couples Massage at Ho'omana Spa | Booked | 80-min Signature Lomi Lomi massage, ~$199/person. Open Tuesdays. Confirm hours: (808) 698-5465. [Services & pricing](https://hoomanaspamaui.com/our-services/) |
+| 4:15 PM | 📌 Couples Massage at Ho'omana Spa | Booked | 80-min Signature Lomi Lomi massage. Open Tuesdays. [Services & pricing](https://hoomanaspamaui.com/our-services/) |
 | 5:45 PM | 🗓️ Drive back to Kihei | Planned | ~30-40 min from Makawao to Kihei |
 | 6:30 PM | ⬜ FREE SLOT | — | Evening free. Dinner in Kihei |
 
@@ -71,7 +71,7 @@
 |------|----------|------|---------|
 | 6:30 AM | 🗓️ Drive to Ma'alaea Harbor | Planned | ~15-20 min from Kihei. Paid parking at harbor. |
 | 7:30 AM | 🗓️ Check in for snorkel tour | Planned | Check in at 130 Maalaea Rd, Wailuku, HI 96793 (Ma'alaea Harbor, North Dock) by 7:30am. Look for the large white catamaran with black and gold trim. |
-| 8:00 AM | 🗓️ Turtle Snorkeling — Pride of Maui | Planned | 5 hrs. Molokini Crater + Turtle Town. Includes breakfast, BBQ lunch, open bar after snorkeling, snorkel gear, water slide. 65ft catamaran. Departs Ma'alaea Harbor, North Dock. March = bonus whale watching. [TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g29220-d16822053-Maui_Molokini_and_Turtle_Town_Snorkeling_aboard_Pride_of_Maui-Maui_Hawaii.html) |
+| 8:00 AM | 📌 Turtle Snorkeling — Pride of Maui | Booked | 5 hrs. Molokini Crater + Turtle Town. Includes breakfast, BBQ lunch, open bar after snorkeling, snorkel gear, water slide. 65ft catamaran. Departs Ma'alaea Harbor, North Dock. March = bonus whale watching. [TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g29220-d16822053-Maui_Molokini_and_Turtle_Town_Snorkeling_aboard_Pride_of_Maui-Maui_Hawaii.html) |
 | 1:00 PM | 🗓️ Return to Ma'alaea Harbor | Planned | — |
 | 1:15 PM | 🗓️ Drive back to Kihei | Planned | ~15-20 min |
 | 1:30 PM | ⬜ FREE SLOT | — | ~1.5 hours. Rest, shower, grab a snack. |
@@ -170,12 +170,16 @@
 
 ## 📋 Pre-Trip Action Items
 
-| Action | When to Do | Link |
-|--------|-----------|------|
-| Book Iao Valley reservation (1.5hr slot) | ~Feb 7 (30 days ahead) | [gostateparks.hawaii.gov/iao-valley](https://gostateparks.hawaii.gov/iao-valley) |
-| Book Wai'anapanapa Black Sand Beach (Morning II slot) | ~Feb 11 (30 days ahead) | [gowaianapanapa.com](https://www.gowaianapanapa.com) |
-| Confirm Ho'omana Spa 4:15pm Tue appointment | ASAP | Call (808) 698-5465 |
-| Book surf lesson (if doing) | 1-2 weeks ahead | [mauisurfinglessons.com](https://mauisurfinglessons.com/) |
+| Action | When to Do | Link | Notes |
+|--------|-----------|------|-------|
+| Book Iao Valley reservation (1.5hr slot) | ~Feb 7 (30 days ahead) | [gostateparks.hawaii.gov/iao-valley](https://gostateparks.hawaii.gov/iao-valley) | REQUIRED for non-residents. $5/person + $10/car paid online |
+| Book Wai'anapanapa Black Sand Beach (Morning II slot) | ~Feb 11 (30 days ahead) | [gowaianapanapa.com](https://www.gowaianapanapa.com) | REQUIRED for non-residents. $5/person + $10/car paid online. Download QR code before trip — no cell service at park |
+| Book surf lesson (if doing) | 1-2 weeks ahead | [mauisurfinglessons.com](https://mauisurfinglessons.com/) | Strongly recommended — small operations with limited slots. Morning lessons best (wind picks up later) |
+| Reserve bike rental (optional) | 1-2 days ahead | [mauisunriders.com](https://mauisunriders.com/maui-bike-rentals/maui-cruiser-bike-rentals/) | Recommended but cruisers usually available walk-in. 48hr cancellation policy |
+| Haleakala NP — Kipahulu entry ($30/vehicle) | Day of (3/13) | [NPS fees](https://www.nps.gov/hale/planyourvisit/fees.htm) | Can pay at the gate (credit card). Pass valid 3 days — covers Summit on 3/14 too |
+| Haleakala NP — Summit entry for sunset | Day of (3/14) | [NPS sunset info](https://www.nps.gov/hale/planyourvisit/sunset.htm) | No reservation needed for sunset. Free if showing Kipahulu receipt from 3/13. Arrive 2-3 hrs early for parking |
+| Twin Falls parking ($10/car) | Day of (3/10) | [twinfallsmaui.net](https://www.twinfallsmaui.net/) | First-come first-served, 55 spots. No advance booking. Arrive early |
+| Ma'alaea Harbor parking ($1/hr) | Day of (3/12) | [secureparkinghi.com](https://www.secureparkinghi.com/parking-location/maalaea-boat-harbor/) | Pay via QR code or pay station. NO CASH accepted |
 
 ## 💰 Estimated Costs (Per Person)
 
