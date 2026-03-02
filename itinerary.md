@@ -12,7 +12,8 @@
 
 ## 📍 Key Locations & Regions
 - **Airbnb Base:** Near Kamaole Beach Park III, Kihei (south Maui)
-- **Ma'alaea Harbor:** ~15-20 min from Kihei (snorkel/whale tours)
+- **Ma'alaea Harbor:** ~15-20 min from Kihei (snorkel tours)
+- **Lahaina (Mala Ramp):** ~45-60 min from Kihei (whale watching)
 - **OGG Airport:** ~25-30 min from Kihei
 - **Haleakala Summit:** ~1.5-2 hrs from Kihei
 - **Twin Falls / Hana Highway:** ~45-55 min from Kihei to start of Hana Hwy
@@ -40,12 +41,11 @@
 
 | Time | Activity | Type | Details |
 |------|----------|------|---------|
-| 7:30 AM | ⬜ FREE SLOT | — | ~1.5 hours. Options: sunrise walk at Kam III, breakfast at a local café, pack for the day |
-| 9:00 AM | 🗓️ Drive to Twin Falls | Planned | ~45-55 min from Kihei via Kahului → Hana Hwy |
-| 10:00 AM | 🗓️ Twin Falls — Hike + Swim | Planned | Open daily (except 1st Sat/month). Gates 7:10am, last entry 4:30pm. $10 parking (55 spots, first-come). Hike both falls + swim ~1.5-2.5 hrs. Bring water shoes, swimsuit, towel. [Website](https://www.twinfallsmaui.net/) · [AllTrails](https://www.alltrails.com/trail/hawaii/maui/twin-falls-trail) |
-| 12:30 PM | 🗓️ Lunch break | Planned | Grab food at Twin Falls farm stand or nearby Paia town (~20 min drive back) |
-| 1:30 PM | ⬜ FREE SLOT | — | ~2.5 hours. Options: explore Paia town, Makawao town (on the way to spa), Ho'okipa Beach turtle watching (MM9 on Hana Hwy) |
-| 4:00 PM | 🗓️ Arrive at Ho'omana Spa | Planned | 1550 Piiholo Rd, Makawao. ~25-35 min from Twin Falls. Arrive 15 min early for check-in. [Website](https://hoomanaspamaui.com) |
+| 7:30 AM | ⬜ FREE SLOT | — | ~4.5 hours. Options: sleep in, sunrise walk at Kam III, breakfast at a local café, morning beach time, explore Kihei |
+| 12:00 PM | 🗓️ Drive to Twin Falls | Planned | ~45-55 min from Kihei via Kahului → Hana Hwy |
+| 1:00 PM | 🗓️ Twin Falls — Hike + Swim | Planned | Open daily (except 1st Sat/month). Gates 7:10am, last entry 4:30pm. $10 parking (55 spots, first-come). Hike both falls + swim ~2 hrs. Bring water shoes, swimsuit, towel. [Website](https://www.twinfallsmaui.net/) · [AllTrails](https://www.alltrails.com/trail/hawaii/maui/twin-falls-trail) |
+| 3:15 PM | 🗓️ Drive to Ho'omana Spa | Planned | ~25-35 min from Twin Falls. Head directly to spa — it's on the way back toward Kihei (upcountry Makawao). |
+| 4:00 PM | 🗓️ Arrive at Ho'omana Spa | Planned | 1550 Piiholo Rd, Makawao. Arrive 15 min early for check-in. [Website](https://hoomanaspamaui.com) |
 | 4:15 PM | 📌 Couples Massage at Ho'omana Spa | Booked | 80-min Signature Lomi Lomi massage, ~$199/person. Open Tuesdays. Confirm hours: (808) 698-5465. [Services & pricing](https://hoomanaspamaui.com/our-services/) |
 | 5:45 PM | 🗓️ Drive back to Kihei | Planned | ~30-40 min from Makawao to Kihei |
 | 6:30 PM | ⬜ FREE SLOT | — | Evening free. Dinner in Kihei |
