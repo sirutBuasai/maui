@@ -84,17 +84,17 @@
 | 1:45 PM | 🗓️ Kuloa Point Trail — Pools of Ohe'o Viewing | Planned | Short easy walk to view the pools (swimming closed indefinitely). ~30 min. |
 | 2:15 PM | 🔄 Pipiwai Trail Hike | Floating | 3.8mi out-and-back, ~2 hrs. Moderate. Highlights: Makahiku Falls viewpoint, bamboo forest, Waimoku Falls (400ft). No swimming at Waimoku. Muddy — wear hiking shoes. [AllTrails](https://www.alltrails.com/trail/hawaii/maui/waimoku-falls-via-pipiwai-trail) · [Earth Trekkers guide](https://www.earthtrekkers.com/pipiwai-trail-hike/) |
 | 4:15 PM | 🗓️ Begin return drive | Planned | Same route back via Hana Highway. ~2.5-3 hrs nonstop (skip stops on return). No streetlights — drive carefully. |
-
-> ⚠️ **Why not the back road (loop)?** The southern route past Kipahulu (Hwy 31/Piilani Hwy) is shorter in distance but has unpaved sections, no guardrails, and blind one-lane curves — especially rough between Kipahulu and Kaupo. Most rental companies prohibit this road and driving it can void your insurance. With a ~4:15pm departure, you'd hit the worst section near dusk with no cell service. Going back via Hana Highway is fully paved, familiar from the morning, and safer. The loop only makes sense if leaving Kipahulu by ~2pm with plenty of daylight and a rental company that allows it.
 | 7:00 PM | 🗓️ Dinner stop in Paia | Planned | Or grab food on the way back |
 | 7:30–8:00 PM | 🗓️ Arrive back in Kihei | Planned | — |
+
+> ⚠️ **Why not the back road (loop)?** The southern route past Kipahulu (Hwy 31/Piilani Hwy) is shorter in distance but has unpaved sections, no guardrails, and blind one-lane curves — especially rough between Kipahulu and Kaupo. Most rental companies prohibit this road and driving it can void your insurance. With a ~4:15pm departure, you'd hit the worst section near dusk with no cell service. Going back via Hana Highway is fully paved, familiar from the morning, and safer. The loop only makes sense if leaving Kipahulu by ~2pm with plenty of daylight and a rental company that allows it.
 
 > ⚠️ **Action items:** Book Wai'anapanapa reservation ~30 days ahead (opens ~Feb 10) at [gowaianapanapa.com](https://www.gowaianapanapa.com). Target Morning II slot (10am-12:30pm).
 
 ---
 
-## Friday, March 13 — Snorkeling + Haleakala Sunset & Stargazing 🌅🌌
-*Route: Kihei → Ma'alaea Harbor (morning) → back to Kihei (midday) → Haleakala summit via upcountry (afternoon/evening) → Kihei (efficient south-to-summit loop)*
+## Friday, March 13 — Snorkeling + Beach Biking 🐢🚲
+*Route: Kihei → Ma'alaea Harbor (morning) → Kihei (afternoon) — all south/central Maui*
 
 | Time | Activity | Type | Details |
 |------|----------|------|---------|
@@ -103,28 +103,29 @@
 | 7:30 AM | 🔄 Turtle Snorkeling — Calypso Charters | Floating | 5.5 hrs. Molokini Crater + Turtle Town. ~$179/adult. Includes breakfast, lunch, snorkel gear. Departs Ma'alaea Harbor Slip 76-78. March = bonus whale watching. [Book via GetYourGuide](https://www.getyourguide.com/maui-l657/maui-molokini-and-turtle-town-snorkel-tour-with-lunch-t395526/) |
 | 1:00 PM | 🗓️ Return to Ma'alaea Harbor | Planned | — |
 | 1:15 PM | 🗓️ Drive back to Kihei | Planned | ~15-20 min |
-| 1:30 PM | ⬜ FREE SLOT | — | ~2 hours. Rest, shower, pack warm layers for Haleakala (30-50°F at summit). |
-| 3:30 PM | 🔄 Drive to Haleakala Summit | Floating | ~1.5-2 hrs via Hwy 37 → 377 → 378 (Crater Road). 21mi of switchbacks gaining 6,000ft. $30/vehicle, NO reservation needed for sunset. [NPS sunset info](https://www.nps.gov/hale/planyourvisit/sunset.htm) |
-| 5:00 PM | 🔄 Arrive at summit — Hiking | Floating | Hike Pa Ka'oao (White Hill) trail: 0.5mi, ~20 min, panoramic views. Or partial Sliding Sands trail into the crater (go as far as you like — return is uphill at 10,000ft). [NPS info](https://www.nps.gov/hale/planyourvisit/stargazing.htm) |
-| 6:00 PM | 🗓️ Find sunset viewing spot | Planned | Pu'u 'Ula'ula (Red Hill) summit at 10,023ft. Arrive early — parking fills up. |
+| 1:30 PM | ⬜ FREE SLOT | — | ~1.5 hours. Rest, shower, grab a snack. |
+| 3:00 PM | 🔄 Beach Biking | Floating | Rent cruiser bikes from Maui Sunriders (1847 S. Kihei Rd, opens 9am, $25/day). Ride the South Kihei Road bike lane → Kalama Park coastal path → Charley Young Beach area. ~5-6mi round trip, 1-1.5 hrs with stops. [Maui Sunriders](https://mauisunriders.com/maui-bike-rentals/maui-cruiser-bike-rentals/) |
+| 4:30 PM | ⬜ FREE SLOT | — | Evening free. Beach time, dinner in Kihei. Relaxed day to recover from Road to Hana. |
+
+---
+
+## Saturday, March 14 — Surf + Haleakala Sunset & Stargazing 🏄‍♂️🌅🌌
+*Route: Kihei (morning surf) → Haleakala summit via upcountry (afternoon/evening) → Kihei*
+
+| Time | Activity | Type | Details |
+|------|----------|------|---------|
+| 8:00 AM | ⬜ FREE SLOT | — | ~1 hour. Breakfast |
+| 9:00 AM | 🔄 Surf Lesson | Floating | 2-hr group lesson at The Cove, Kihei. Maui Surfing Lessons from $89/person — includes board, rash guard, surf shoes. [Book here](https://mauisurfinglessons.com/) · Alt: Maui Wave Riders $105-150/person [Book here](https://www.mauiwaveriders.com/lessons/surf-lessons-kihei/) |
+| 11:00 AM | ⬜ FREE SLOT | — | ~2 hours. Lunch, rest, shower. Pack warm layers for Haleakala (30-50°F at summit). |
+| 1:00 PM | 🔄 Drive to Haleakala Summit | Floating | ~1.5-2 hrs via Hwy 37 → 377 → 378 (Crater Road). 21mi of switchbacks gaining 6,000ft. $30/vehicle, NO reservation needed for sunset. [NPS sunset info](https://www.nps.gov/hale/planyourvisit/sunset.htm) |
+| 2:30 PM | 🔄 Arrive at summit — Hiking | Floating | Hike the Sliding Sands (Keoneheʻeheʻe) Trail into the crater. Go 2-3 miles down for stunning volcanic landscape, cinder cones, otherworldly terrain. **Return is uphill at 10,000ft (~30% less oxygen) — budget double the time going back up.** ~2-3 hrs for a meaningful partial out-and-back. Or for something shorter: Pa Ka'oao (White Hill) trail, 0.5mi, ~20 min. [AllTrails - Sliding Sands](https://www.alltrails.com/trail/hawaii/maui/sliding-sands-trail) |
+| 5:30 PM | 🗓️ Return to summit area | Planned | Head back up to Pu'u 'Ula'ula (Red Hill) summit at 10,023ft for sunset. Arrive early — parking fills up. |
 | 6:28 PM | 🗓️ Sunset | Planned | Sunset ~6:28-6:30pm in mid-March. [Sunset times](https://www.timeanddate.com/sun/@5850862?month=3&year=2026) |
 | 7:30 PM | 🔄 Stargazing | Floating | Wait ~1hr after sunset for full darkness. Park is open 24hrs. World-class dark sky viewing — Milky Way, planets visible. Bring warm layers, hand warmers. [NPS stargazing](https://www.nps.gov/hale/planyourvisit/stargazing.htm) |
 | 8:30 PM | 🗓️ Drive back to Kihei | Planned | ~1.5-2 hrs. Road is winding with no guardrails — drive carefully in the dark. |
 | 10:00–10:30 PM | 🗓️ Arrive back in Kihei | Planned | — |
 
 > 🧥 **What to bring:** Warm layers (fleece, puffer, windbreaker), long pants, beanie, gloves, closed-toe shoes, hand warmers. It's 30-50°F at the summit and drops further after dark.
-
----
-
-## Saturday, March 14 — Beach Day + Activities 🏄‍♂️🚲
-*Route: All activities in Kihei — no driving needed beyond the immediate area*
-
-| Time | Activity | Type | Details |
-|------|----------|------|---------|
-| 7:30 AM | ⬜ FREE SLOT | — | ~1 hour. Breakfast, morning beach walk |
-| 8:30 AM | 🔄 Beach Biking | Floating | Rent cruiser bikes from Maui Sunriders (1847 S. Kihei Rd, opens 9am, $25/day). Ride the South Kihei Road bike lane → Kalama Park coastal path → Charley Young Beach area. ~5-6mi round trip, 1-1.5 hrs with stops. [Maui Sunriders](https://mauisunriders.com/maui-bike-rentals/maui-cruiser-bike-rentals/) |
-| 10:00 AM | 🔄 Surf Lesson (optional) | Floating | 2-hr group lesson at The Cove, Kihei. Maui Surfing Lessons from $89/person — includes board, rash guard, surf shoes. [Book here](https://mauisurfinglessons.com/) · Alt: Maui Wave Riders $105-150/person [Book here](https://www.mauiwaveriders.com/lessons/surf-lessons-kihei/) |
-| 12:00 PM | ⬜ FREE SLOT | — | Rest of day open (~6+ hours). Suggestions: beach time, lunch in Kihei, explore Wailea shops, snorkel at Ulua Beach, relax before tomorrow's whale watching |
 
 ---
 
@@ -139,7 +140,8 @@
 | 9:15 AM | 📌 Whale Watching — Dive Maui | Booked | 2 hrs, $85/adult, $60/child. Max 20 guests. March = peak whale season, sightings guaranteed or money back. 15% off online with code WHALE15. Departs from Mala Ramp. [Book here](https://fareharbor.com/embeds/book/goscubadivemaui/?full-items=yes&flow=1227238) · [Website](https://goscubadivemaui.com/mauiwhalewatching/) · Phone: (808) 661-7333 |
 | 11:15 AM | 🗓️ Drive back to Kihei | Planned | ~45-60 min |
 | 12:00 PM | ⬜ FREE SLOT | — | Lunch + transition to beach day |
-| 12:30 PM | 🗓️ Beach Afternoon | Planned | Choose your vibe: |
+| 12:30 PM | 🗓️ Beach Afternoon | Planned | Choose your vibe |
+| 4:00 PM | ⬜ FREE SLOT | — | ~3 hours. Shopping in Kihei or Wailea. Dinner out. |
 
 ### Beach Options for 3/15
 
@@ -151,8 +153,6 @@
 | 🤫 **Private** | Charley Young Beach | North of Kam I | Quieter, frequent turtle sightings in morning, small parking lot |
 | 🤿 **Activities** | Ulua Beach / Mokapu Beach | Wailea (~10 min south) | Premier snorkeling — shallow reefs, turtles, eagle rays. Free public parking |
 | 🐢 **Activities** | Maluaka Beach (Turtle Beach) | Makena (~15 min south) | Best spot to see green sea turtles. Great snorkeling at south end |
-
-| 4:00 PM | ⬜ FREE SLOT | — | ~3 hours. Shopping in Kihei or Wailea. Dinner out. |
 
 ---
 
@@ -203,9 +203,9 @@
 - **3/10:** Efficient loop — Kihei → north shore (Twin Falls) → upcountry (Ho'omana Spa in Makawao) → Kihei. Spa is between Twin Falls and Kihei.
 - **3/11:** Simple round trip — Kihei → OGG → Kihei.
 - **3/12:** Road to Hana — Scheduled on Thursday for lighter traffic. Full day, classic clockwise route.
-- **3/13:** South/central → summit — Snorkel at Ma'alaea (15 min from Kihei), return midday, then drive to Haleakala via upcountry. Both activities accessible from south Maui without crossing the island.
-- **3/14:** All Kihei — Zero driving. Biking + surf + beach all within walking/biking distance.
+- **3/13:** All south/central Maui — Snorkel at Ma'alaea (15 min from Kihei), return midday, beach biking in Kihei afternoon. Relaxed recovery day after Road to Hana.
+- **3/14:** Kihei → summit — Surf lesson in Kihei morning, then drive to Haleakala for hiking + sunset + stargazing. Sliding Sands trail before sunset.
 - **3/15:** Out-and-back to west side — Kihei → Lahaina for whale watching (~45-60 min each way via HI-30), then Kihei/Wailea beaches. Allow extra time for Lahaina traffic.
 - **3/16:** Direct — Kihei → OGG.
 
-> **Note:** Haleakala NP entry ($30/vehicle) is valid for 3 days. If you visit Kipahulu on 3/12 (Road to Hana), keep your receipt — it covers Haleakala Summit on 3/13 for free.
+> **Note:** Haleakala NP entry ($30/vehicle) is valid for 3 days. If you visit Kipahulu on 3/12 (Road to Hana), keep your receipt — it covers Haleakala Summit on 3/14 for free.
