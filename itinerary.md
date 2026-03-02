@@ -98,9 +98,9 @@
 
 | Time | Activity | Type | Details |
 |------|----------|------|---------|
-| 6:30 AM | 🔄 Drive to Ma'alaea Harbor | Floating | ~15-20 min from Kihei. Paid parking at harbor. |
-| 6:45 AM | 🗓️ Check in for snorkel tour | Planned | Check in 45 min before departure |
-| 7:30 AM | 🔄 Turtle Snorkeling — Calypso Charters | Floating | 5.5 hrs. Molokini Crater + Turtle Town. ~$179/adult. Includes breakfast, lunch, snorkel gear. Departs Ma'alaea Harbor Slip 76-78. March = bonus whale watching. [Book via GetYourGuide](https://www.getyourguide.com/maui-l657/maui-molokini-and-turtle-town-snorkel-tour-with-lunch-t395526/) |
+| 6:30 AM | 🔄 Drive to Ma'alaea Harbor | Floating | ~15-20 min from Kihei. Paid parking at harbor (~$2). |
+| 7:30 AM | 🗓️ Check in for snorkel tour | Planned | Check in at Ma'alaea Harbor, North Dock by 7:30am. Look for the large white catamaran with black and gold trim. |
+| 8:00 AM | 🔄 Turtle Snorkeling — Pride of Maui | Floating | 5 hrs. Molokini Crater + Turtle Town. Includes breakfast, BBQ lunch, open bar after snorkeling, snorkel gear, water slide. 65ft catamaran. Departs Ma'alaea Harbor, North Dock. March = bonus whale watching. [TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g29220-d16822053-Maui_Molokini_and_Turtle_Town_Snorkeling_aboard_Pride_of_Maui-Maui_Hawaii.html) |
 | 1:00 PM | 🗓️ Return to Ma'alaea Harbor | Planned | — |
 | 1:15 PM | 🗓️ Drive back to Kihei | Planned | ~15-20 min |
 | 1:30 PM | ⬜ FREE SLOT | — | ~1.5 hours. Rest, shower, grab a snack. |
@@ -137,7 +137,7 @@
 | 7:00 AM | ⬜ FREE SLOT | — | ~45 min. Breakfast, pack for the day |
 | 7:45 AM | 🗓️ Drive to Lahaina | Planned | ~45-60 min from Kihei via Honoapiʻilani Hwy (HI-30). Allow extra time — 2-lane highway can be congested. Some roads near Front St may still be affected post-2023 fires. |
 | 8:45 AM | 🗓️ Check in at Mala Ramp | Planned | 1223 Front St, Lahaina. Check in 30 min before departure. |
-| 9:15 AM | 📌 Whale Watching — Dive Maui | Booked | 2 hrs, $85/adult, $60/child. Max 20 guests. March = peak whale season, sightings guaranteed or money back. 15% off online with code WHALE15. Departs from Mala Ramp. [Book here](https://fareharbor.com/embeds/book/goscubadivemaui/?full-items=yes&flow=1227238) · [Website](https://goscubadivemaui.com/mauiwhalewatching/) · Phone: (808) 661-7333 |
+| 9:15 AM | 📌 Whale Watching — Dive Maui | Booked | 2 hrs. Max 20 guests. March = peak whale season, sightings guaranteed or money back. Departs from Mala Ramp. [TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g29220-d19423275-Whale_Watching_Maui_2_Hour_Small_Group_Raft_Tour_from_Lahaina-Maui_Hawaii.html) |
 | 11:15 AM | 🗓️ Drive back to Kihei | Planned | ~45-60 min |
 | 12:00 PM | ⬜ FREE SLOT | — | Lunch + transition to beach day |
 | 12:30 PM | 🗓️ Beach Afternoon | Planned | Choose your vibe |
@@ -176,10 +176,7 @@
 | Book Iao Valley reservation (1.5hr slot) | ~Feb 7 (30 days ahead) | [gostateparks.hawaii.gov/iao-valley](https://gostateparks.hawaii.gov/iao-valley) |
 | Book Wai'anapanapa Black Sand Beach (Morning II slot) | ~Feb 10 (30 days ahead) | [gowaianapanapa.com](https://www.gowaianapanapa.com) |
 | Confirm Ho'omana Spa 4:15pm Tue appointment | ASAP | Call (808) 698-5465 |
-| Book Calypso Charters snorkel tour | 2-4 weeks ahead | [GetYourGuide](https://www.getyourguide.com/maui-l657/maui-molokini-and-turtle-town-snorkel-tour-with-lunch-t395526/) |
-| Book Dive Maui whale watching (9:15am Sun) | 2-4 weeks ahead | [FareHarbor](https://fareharbor.com/embeds/book/goscubadivemaui/?full-items=yes&flow=1227238) |
 | Book surf lesson (if doing) | 1-2 weeks ahead | [mauisurfinglessons.com](https://mauisurfinglessons.com/) |
-| Book Morimoto Maui dinner (if not already) | ASAP | [OpenTable](https://www.opentable.com/morimoto-maui-reservations-wailea?restref=114532) |
 
 ## 💰 Estimated Costs (Per Person)
 
@@ -188,14 +185,11 @@
 | Iao Valley | $10 | $5 entry + $5 share of $10 parking |
 | Morimoto Maui dinner | $50-80+ | Entrees $31-50 + drinks |
 | Twin Falls | $5 | Share of $10 parking |
-| Ho'omana Spa (80min Lomi Lomi) | $199 | Per person |
 | Road to Hana — Haleakala NP Kipahulu | $15 | Share of $30/vehicle |
 | Road to Hana — Wai'anapanapa | $10 | $5 entry + $5 share of $10 parking |
-| Calypso snorkel tour | $179 | Per person |
 | Haleakala sunset | $15 | Share of $30/vehicle (or free if same receipt from Kipahulu within 3 days) |
 | Beach bike rental | $25 | Per person/day |
 | Surf lesson (optional) | $89-150 | Per person |
-| Dive Maui whale watching | $85 | Per person (15% off with code WHALE15) |
 
 ## 🗺️ Routing Logic
 
