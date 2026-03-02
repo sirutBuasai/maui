@@ -83,6 +83,8 @@
 ## Friday, March 13 — Road to Hana 🌿
 *Route: Kihei → Paia → Hana Highway east → Hana → Kipahulu → return same route (classic clockwise)*
 
+> ⚠️ **Construction alert:** Rock scaling work at Mile Marker 19.5 (near Three Bears Falls) is causing intermittent 15-20 min traffic holds weekdays 8am-3pm through early April 2026. Budget extra time. Also, Kaumahina Wayside (MM12) is closed for waterline repairs. [HDOT alerts](https://hidot.hawaii.gov/weather-traffic/)
+
 | Time | Activity | Type | Details |
 |------|----------|------|---------|
 | 6:30 AM | 🗓️ Depart Kihei | Planned | ~30 min to Paia. Gas up before leaving. |
@@ -116,7 +118,7 @@
 | 8:00 AM | ⬜ FREE SLOT | — | ~1 hour. Breakfast |
 | 9:00 AM | 🗓️ Surf Lesson | Planned | 2-hr group lesson at The Cove, Kihei. Maui Surfing Lessons from $89/person — includes board, rash guard, surf shoes. [Book here](https://mauisurfinglessons.com/) · Alt: Maui Wave Riders $105-150/person [Book here](https://www.mauiwaveriders.com/lessons/surf-lessons-kihei/) |
 | 11:00 AM | ⬜ FREE SLOT | — | ~2 hours. Lunch, rest, shower. Pack warm layers for Haleakala (30-50°F at summit). |
-| 1:00 PM | 🗓️ Drive to Haleakala Summit | Planned | ~1.5-2 hrs via Hwy 37 → 377 → 378 (Crater Road). 21mi of switchbacks gaining 6,000ft. $30/vehicle, NO reservation needed for sunset. [NPS sunset info](https://www.nps.gov/hale/planyourvisit/sunset.htm) |
+| 1:00 PM | 🗓️ Drive to Haleakala Summit | Planned | ~1.5-2 hrs via Hwy 37 → 377 → 378 (Crater Road). 21mi of switchbacks gaining 6,000ft. $30/vehicle, NO reservation needed for sunset. **Summit Visitor Center is CLOSED through April 12 for remodeling** (restrooms still open). Parking is reduced — arrive early, vehicles have been turned away. [NPS sunset info](https://www.nps.gov/hale/planyourvisit/sunset.htm) |
 | 2:30 PM | 🗓️ Arrive at summit — Hiking | Planned | Hike the Sliding Sands (Keoneheʻeheʻe) Trail into the crater. Go 2-3 miles down for stunning volcanic landscape, cinder cones, otherworldly terrain. **Return is uphill at 10,000ft (~30% less oxygen) — budget double the time going back up.** ~2-3 hrs for a meaningful partial out-and-back. Or for something shorter: Pa Ka'oao (White Hill) trail, 0.5mi, ~20 min. [AllTrails - Sliding Sands](https://www.alltrails.com/trail/hawaii/maui/sliding-sands-trail) |
 | 5:30 PM | 🗓️ Return to summit area | Planned | Head back up to Pu'u 'Ula'ula (Red Hill) summit at 10,023ft for sunset. Arrive early — parking fills up. |
 | 6:28 PM | 🗓️ Sunset | Planned | Sunset ~6:28-6:30pm in mid-March. [Sunset times](https://www.timeanddate.com/sun/@5850862?month=3&year=2026) |
