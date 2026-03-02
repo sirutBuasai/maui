@@ -139,7 +139,8 @@
 | 9:15 AM | 📌 Whale Watching — Dive Maui | Booked | 2 hrs. Max 20 guests. March = peak whale season, sightings guaranteed or money back. Departs from Mala Ramp. [TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g29220-d19423275-Whale_Watching_Maui_2_Hour_Small_Group_Raft_Tour_from_Lahaina-Maui_Hawaii.html) |
 | 11:15 AM | 🗓️ Drive back to Kihei | Planned | ~45-60 min |
 | 12:00 PM | ⬜ FREE SLOT | — | Lunch + transition to beach day |
-| 12:30 PM | 🗓️ Beach Afternoon | Planned | Choose your vibe: |
+| 12:30 PM | 🗓️ Beach Afternoon | Planned | Choose your vibe |
+| 4:00 PM | ⬜ FREE SLOT | — | ~3 hours. Shopping in Kihei or Wailea. Dinner out. |
 
 ### Beach Options for 3/15
 
@@ -151,8 +152,6 @@
 | 🤫 **Private** | Charley Young Beach | North of Kam I | Quieter, frequent turtle sightings in morning, small parking lot |
 | 🤿 **Activities** | Ulua Beach / Mokapu Beach | Wailea (~10 min south) | Premier snorkeling — shallow reefs, turtles, eagle rays. Free public parking |
 | 🐢 **Activities** | Maluaka Beach (Turtle Beach) | Makena (~15 min south) | Best spot to see green sea turtles. Great snorkeling at south end |
-
-| 4:00 PM | ⬜ FREE SLOT | — | ~3 hours. Shopping in Kihei or Wailea. Dinner out. |
 
 ---
 
