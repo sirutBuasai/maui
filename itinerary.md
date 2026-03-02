@@ -98,7 +98,7 @@
 
 | Time | Activity | Type | Details |
 |------|----------|------|---------|
-| 6:30 AM | 🔄 Drive to Ma'alaea Harbor | Floating | ~15-20 min from Kihei. Paid parking at harbor (~$2). |
+| 6:30 AM | 🔄 Drive to Ma'alaea Harbor | Floating | ~15-20 min from Kihei. Paid parking at harbor. |
 | 7:30 AM | 🗓️ Check in for snorkel tour | Planned | Check in at Ma'alaea Harbor, North Dock by 7:30am. Look for the large white catamaran with black and gold trim. |
 | 8:00 AM | 🔄 Turtle Snorkeling — Pride of Maui | Floating | 5 hrs. Molokini Crater + Turtle Town. Includes breakfast, BBQ lunch, open bar after snorkeling, snorkel gear, water slide. 65ft catamaran. Departs Ma'alaea Harbor, North Dock. March = bonus whale watching. [TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g29220-d16822053-Maui_Molokini_and_Turtle_Town_Snorkeling_aboard_Pride_of_Maui-Maui_Hawaii.html) |
 | 1:00 PM | 🗓️ Return to Ma'alaea Harbor | Planned | — |
@@ -183,7 +183,6 @@
 | Item | Cost | Notes |
 |------|------|-------|
 | Iao Valley | $10 | $5 entry + $5 share of $10 parking |
-| Morimoto Maui dinner | $50-80+ | Entrees $31-50 + drinks |
 | Twin Falls | $5 | Share of $10 parking |
 | Road to Hana — Haleakala NP Kipahulu | $15 | Share of $30/vehicle |
 | Road to Hana — Wai'anapanapa | $10 | $5 entry + $5 share of $10 parking |
