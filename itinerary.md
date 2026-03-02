@@ -73,17 +73,19 @@
 | 6:30 AM | 🔄 Depart Kihei | Floating | ~30 min to Paia. Gas up before leaving. |
 | 7:00 AM | 🗓️ Paia Town — Breakfast | Planned | Grab coffee + food to go. Last reliable food/restrooms until Hana. |
 | 7:30 AM | 🗓️ Begin Road to Hana drive | Planned | Full day trip, 10-13 hours total. Drive the classic route east. |
-| 8:15 AM | 🗓️ Waikamoi Falls (MM10) — Waterfall + Swimming | Planned | Short trail to base, swimming in pool. ~20 min stop. Free. [Source](https://www.hiddenswimmingholes.com/swimming-holes/maui-swimming-holes-and-scenic-spots-hi) |
+| 8:15 AM | 🗓️ Waikamoi Falls (MM10) — Quick Stop | Planned | Short trail to base, wade/dip feet in pool. ~10 min stop. Free. *Optional swim: earliest stop so you'll have fresh energy, and fewer crowds this early.* [Source](https://www.hiddenswimmingholes.com/swimming-holes/maui-swimming-holes-and-scenic-spots-hi) |
 | 9:00 AM | 🗓️ Ke'anae Peninsula + Aunty Sandy's Banana Bread (MM17) | Planned | Stunning lava rock coastline + famous banana bread. ~20 min. |
-| 9:30 AM | 🗓️ Upper Waikani Falls / Three Bears (MM19) — Waterfall + Swimming | Planned | Three parallel 70ft falls with pool at base. Steep scramble down. ~20-30 min. Free. Limited shoulder parking. [Source](https://www.flashpackingamerica.com/hawaii-travel/road-to-hana-waterfalls-maui-hawaii/) |
-| 10:15 AM | 🗓️ Pua'a Ka'a State Wayside (MM22.5) — Waterfall + Swimming | Planned | Best easy-access swimming waterfall on the route. Open daily 6am-6pm. Free. Restrooms + picnic tables. [Source](https://mauiguide.com/road-to-hana/puaa-kaa-state-wayside-park/) |
+| 9:30 AM | 🗓️ Upper Waikani Falls / Three Bears (MM19) — Quick Stop | Planned | Three parallel 70ft falls with pool at base. Steep scramble down — dip feet or just enjoy the view from above. ~15 min. Free. Limited shoulder parking. *Optional swim: most dramatic setting of the three — three 70ft falls into one pool.* [Source](https://www.flashpackingamerica.com/hawaii-travel/road-to-hana-waterfalls-maui-hawaii/) |
+| 10:00 AM | 🗓️ Pua'a Ka'a State Wayside (MM22.5) — Waterfall + Swimming 🏊 | Planned | Best easy-access swimming waterfall on the route — this is your main swim stop. Open daily 6am-6pm. Free. Restrooms + picnic tables. ~30 min. [Source](https://mauiguide.com/road-to-hana/puaa-kaa-state-wayside-park/) |
 | 11:00 AM | 🗓️ Wai'anapanapa State Park — Black Sand Beach (MM32) | Planned | **RESERVATION REQUIRED** for non-residents. Book 30 days ahead at gowaianapanapa.com. $10/car + $5/person. Target Morning II slot (10am-12:30pm). Download QR code before — no cell service. [Reserve here](https://www.gowaianapanapa.com) · [Info](https://dlnr.hawaii.gov/dsp/parks/maui/waianapanapa-state-park/) |
 | 12:00 PM | 🗓️ Hana Town — Lunch + Gas | Planned | Last gas station (Hasegawa General Store area). Restaurants close by 5pm. ~45-60 min. |
 | 1:00 PM | 🗓️ Wailua Falls (MM45) — Drive-by Viewing | Planned | 80ft waterfall visible from bridge. No parking/swimming. 1 min stop. |
 | 1:30 PM | 🗓️ Haleakala NP — Kipahulu District | Planned | $30/vehicle, NO reservation needed. Open daily. [NPS info](https://www.nps.gov/hale/planyourvisit/conditions.htm) |
 | 1:45 PM | 🗓️ Kuloa Point Trail — Pools of Ohe'o Viewing | Planned | Short easy walk to view the pools (swimming closed indefinitely). ~30 min. |
 | 2:15 PM | 🔄 Pipiwai Trail Hike | Floating | 3.8mi out-and-back, ~2 hrs. Moderate. Highlights: Makahiku Falls viewpoint, bamboo forest, Waimoku Falls (400ft). No swimming at Waimoku. Muddy — wear hiking shoes. [AllTrails](https://www.alltrails.com/trail/hawaii/maui/waimoku-falls-via-pipiwai-trail) · [Earth Trekkers guide](https://www.earthtrekkers.com/pipiwai-trail-hike/) |
-| 4:15 PM | 🗓️ Begin return drive | Planned | Same route back (clockwise). ~2.5-3 hrs. No streetlights — drive carefully. |
+| 4:15 PM | 🗓️ Begin return drive | Planned | Same route back via Hana Highway. ~2.5-3 hrs nonstop (skip stops on return). No streetlights — drive carefully. |
+
+> ⚠️ **Why not the back road (loop)?** The southern route past Kipahulu (Hwy 31/Piilani Hwy) is shorter in distance but has unpaved sections, no guardrails, and blind one-lane curves — especially rough between Kipahulu and Kaupo. Most rental companies prohibit this road and driving it can void your insurance. With a ~4:15pm departure, you'd hit the worst section near dusk with no cell service. Going back via Hana Highway is fully paved, familiar from the morning, and safer. The loop only makes sense if leaving Kipahulu by ~2pm with plenty of daylight and a rental company that allows it.
 | 7:00 PM | 🗓️ Dinner stop in Paia | Planned | Or grab food on the way back |
 | 7:30–8:00 PM | 🗓️ Arrive back in Kihei | Planned | — |
 
