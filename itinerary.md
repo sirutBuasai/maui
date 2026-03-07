@@ -40,9 +40,12 @@
 
 | Time | Activity | Type | Details |
 |------|----------|------|---------|
-| 7:30 AM | ⬜ FREE SLOT | — | ~4.5 hours. Options: sleep in, sunrise walk at Kam III, breakfast at a local café, morning beach time, explore Kihei |
-| 12:00 PM | 🗓️ Drive to Twin Falls | Planned | ~45-55 min from Kihei via Kahului → Hana Hwy |
-| 1:00 PM | 🗓️ Twin Falls — Hike + Swim | Planned | Open daily (except 1st Sat/month). Gates 7:10am, last entry 4:30pm. $10 parking (55 spots, first-come). Hike both falls + swim ~2 hrs. Bring water shoes, swimsuit, towel. [Website](https://www.twinfallsmaui.net/) · [AllTrails](https://www.alltrails.com/trail/hawaii/maui/twin-falls-trail) |
+| 7:30 AM | ⬜ FREE SLOT | — | ~2 hours. Options: sleep in, breakfast at a local café, morning beach time |
+| 9:30 AM | 🗓️ Drive to Maui Tropical Plantation | Planned | ~20 min from Kihei. Located in Waikapu, on the way to Twin Falls. |
+| 10:00 AM | 🗓️ Maui Tropical Plantation — 40 Min Tour | Planned | 40 min tour. |
+| 10:45 AM | 🗓️ Lunch | Planned | Grab lunch near the plantation or in Kahului on the way to Twin Falls. |
+| 11:45 AM | 🗓️ Drive to Twin Falls | Planned | ~30-35 min from Waikapu/Kahului via Hana Hwy |
+| 12:15 PM | 🗓️ Twin Falls — Hike + Swim | Planned | Open daily (except 1st Sat/month). Gates 7:10am, last entry 4:30pm. $10 parking (55 spots, first-come). Hike both falls + swim ~2 hrs. Bring water shoes, swimsuit, towel. [Website](https://www.twinfallsmaui.net/) · [AllTrails](https://www.alltrails.com/trail/hawaii/maui/twin-falls-trail) |
 | 3:15 PM | 🗓️ Drive to Ho'omana Spa | Planned | ~25-35 min from Twin Falls. Head directly to spa — it's on the way back toward Kihei (upcountry Makawao). |
 | 4:00 PM | 🗓️ Arrive at Ho'omana Spa | Planned | 1550 Piiholo Rd, Makawao. Arrive 15 min early for check-in. [Website](https://hoomanaspamaui.com) |
 | 4:15 PM | 📌 Couples Massage at Ho'omana Spa | Booked | 80-min Signature Lomi Lomi massage. Open Tuesdays. [Services & pricing](https://hoomanaspamaui.com/our-services/) |
@@ -81,7 +84,7 @@
 ---
 
 ## Friday, March 13 — Road to Hana 🌿
-*Route: Kihei → Paia → Hana Highway east → Hana → Kipahulu → return same route (classic clockwise)*
+*Route: Kihei → Paia → Hana Highway east → Hana → Kipahulu → Wai'anapanapa (on return) → Paia → Kihei*
 
 > ⚠️ **Construction alert:** Rock scaling work at Mile Marker 19.5 (near Three Bears Falls) is causing intermittent 15-20 min traffic holds weekdays 8am-3pm through early April 2026. Budget extra time. Also, Kaumahina Wayside (MM12) is closed for waterline repairs. [HDOT alerts](https://hidot.hawaii.gov/weather-traffic/)
 
@@ -94,36 +97,32 @@
 | 9:00 AM | 🗓️ Ke'anae Peninsula + Aunty Sandy's Banana Bread (MM17) | Planned | Stunning lava rock coastline + famous banana bread. ~20 min. |
 | 9:30 AM | 🗓️ Upper Waikani Falls / Three Bears (MM19) — Quick Stop | Planned | Three parallel 70ft falls with pool at base. Steep scramble down — dip feet or just enjoy the view from above. ~15 min. Free. Limited shoulder parking. *Optional swim: most dramatic setting of the three — three 70ft falls into one pool.* [Source](https://www.flashpackingamerica.com/hawaii-travel/road-to-hana-waterfalls-maui-hawaii/) |
 | 10:00 AM | 🗓️ Pua'a Ka'a State Wayside (MM22.5) — Waterfall + Swimming 🏊 | Planned | Best easy-access swimming waterfall on the route — this is your main swim stop. Open daily 6am-6pm. Free. Restrooms + picnic tables. ~30 min. [Source](https://mauiguide.com/road-to-hana/puaa-kaa-state-wayside-park/) |
-| 11:00 AM | 🗓️ Wai'anapanapa State Park — Black Sand Beach (MM32) | Planned | **RESERVATION REQUIRED** for non-residents. Book 30 days ahead at gowaianapanapa.com. $10/car + $5/person. Target Morning II slot (10am-12:30pm). Download QR code before — no cell service. [Reserve here](https://www.gowaianapanapa.com) · [Info](https://dlnr.hawaii.gov/dsp/parks/maui/waianapanapa-state-park/) |
-| 12:00 PM | 🗓️ Hana Town — Lunch + Gas | Planned | Last gas station (Hasegawa General Store area). Restaurants close by 5pm. ~45-60 min. |
-| 1:00 PM | 🗓️ Wailua Falls (MM45) — Drive-by Viewing | Planned | 80ft waterfall visible from bridge. No parking/swimming. 1 min stop. |
-| 1:30 PM | 🗓️ Haleakala NP — Kipahulu District | Planned | $30/vehicle, NO reservation needed. Open daily. [NPS info](https://www.nps.gov/hale/planyourvisit/conditions.htm) |
-| 1:45 PM | 🗓️ Kuloa Point Trail — Pools of Ohe'o Viewing | Planned | Short easy walk to view the pools (swimming closed indefinitely). ~30 min. |
-| 2:15 PM | 🗓️ Pipiwai Trail Hike | Planned | 3.8mi out-and-back, ~2 hrs. Moderate. Highlights: Makahiku Falls viewpoint, bamboo forest, Waimoku Falls (400ft). No swimming at Waimoku. Muddy — wear hiking shoes. [AllTrails](https://www.alltrails.com/trail/hawaii/maui/waimoku-falls-via-pipiwai-trail) · [Earth Trekkers guide](https://www.earthtrekkers.com/pipiwai-trail-hike/) |
-| 4:15 PM | 🗓️ Begin return drive | Planned | Same route back via Hana Highway. ~2.5-3 hrs nonstop (skip stops on return). No streetlights — drive carefully. |
+| 10:45 AM | 🗓️ Hana Town — Lunch + Gas | Planned | Last gas station (Hasegawa General Store area). Restaurants close by 5pm. ~45-60 min. |
+| 11:45 AM | 🗓️ Wailua Falls (MM45) — Drive-by Viewing | Planned | 80ft waterfall visible from bridge. No parking/swimming. 1 min stop. |
+| 12:15 PM | 🗓️ Haleakala NP — Kipahulu District | Planned | $30/vehicle, NO reservation needed. Open daily. [NPS info](https://www.nps.gov/hale/planyourvisit/conditions.htm) |
+| 12:30 PM | 🗓️ Kuloa Point Trail — Pools of Ohe'o Viewing | Planned | Short easy walk to view the pools (swimming closed indefinitely). ~30 min. |
+| 1:00 PM | 🗓️ Pipiwai Trail Hike | Planned | 3.8mi out-and-back, ~2 hrs. Moderate. Highlights: Makahiku Falls viewpoint, bamboo forest, Waimoku Falls (400ft). No swimming at Waimoku. Muddy — wear hiking shoes. [AllTrails](https://www.alltrails.com/trail/hawaii/maui/waimoku-falls-via-pipiwai-trail) · [Earth Trekkers guide](https://www.earthtrekkers.com/pipiwai-trail-hike/) |
+| 3:00 PM | 🗓️ Begin return drive toward Wai'anapanapa | Planned | ~30 min drive back from Kipahulu to Wai'anapanapa (MM32). |
+| 3:00 PM | 📌 Wai'anapanapa State Park — Black Sand Beach (MM32) | Booked | Afternoon II slot: 3:00-6:00pm. **Must arrive by 3:30pm.** $10/car + $5/person. Download QR code before — no cell service. [Reserve here](https://www.gowaianapanapa.com) · [Info](https://dlnr.hawaii.gov/dsp/parks/maui/waianapanapa-state-park/) |
+| 4:30 PM | 🗓️ Depart Wai'anapanapa | Planned | Begin return drive via Hana Highway. ~2.5-3 hrs to Kihei. No streetlights — drive carefully as it gets dark. |
 | 7:00 PM | 🗓️ Dinner stop in Paia | Planned | Or grab food on the way back |
 | 7:30–8:00 PM | 🗓️ Arrive back in Kihei | Planned | — |
 
-> ⚠️ **Why not the back road (loop)?** The southern route past Kipahulu (Hwy 31/Piilani Hwy) is shorter in distance but has unpaved sections, no guardrails, and blind one-lane curves — especially rough between Kipahulu and Kaupo. Most rental companies prohibit this road and driving it can void your insurance. With a ~4:15pm departure, you'd hit the worst section near dusk with no cell service. Going back via Hana Highway is fully paved, familiar from the morning, and safer. The loop only makes sense if leaving Kipahulu by ~2pm with plenty of daylight and a rental company that allows it.
-
-> ⚠️ **Action items:** Book Wai'anapanapa reservation ~30 days ahead (opens ~Feb 11) at [gowaianapanapa.com](https://www.gowaianapanapa.com). Target Morning II slot (10am-12:30pm).
+> ⚠️ **Why not the back road (loop)?** The southern route past Kipahulu (Hwy 31/Piilani Hwy) is shorter in distance but has unpaved sections, no guardrails, and blind one-lane curves — especially rough between Kipahulu and Kaupo. Most rental companies prohibit this road and driving it can void your insurance. Going back via Hana Highway is fully paved, familiar from the morning, and safer.
 
 ---
 
-## Saturday, March 14 — Haleakala Hiking + Sunset & Stargazing 🥾🌅🌌
-*Route: Kihei → Haleakala summit via upcountry (afternoon/evening) → Kihei*
+## Saturday, March 14 — Surf + Haleakala Hiking + Sunset & Stargazing 🏄‍♂️🥾🌅🌌
+*Route: Kihei (morning surf) → Haleakala summit via upcountry (afternoon/evening) → Kihei*
 
 | Time | Activity | Type | Details |
 |------|----------|------|---------|
-| 8:00 AM | ⬜ FREE SLOT | — | ~3.5 hours. Sleep in, breakfast, morning beach time. Pack warm layers for Haleakala (30-50°F at summit). |
-| 11:30 AM | 🗓️ Drive to Haleakala Summit | Planned | ~1.5-2 hrs via Hwy 37 → 377 → 378 (Crater Road). 21mi of switchbacks gaining 6,000ft. $30/vehicle, NO reservation needed for sunset. **Summit Visitor Center is CLOSED through April 12 for remodeling** (restrooms still open). Parking is reduced — arrive early, vehicles have been turned away. [NPS sunset info](https://www.nps.gov/hale/planyourvisit/sunset.htm) |
-| 1:00 PM | 🗓️ Stop at Leleiwi Overlook (on the drive up) | Planned | 0.3mi round trip, ~10-15 min. Easy. Quick crater viewpoint from a different angle than the summit. Trailhead is along the park road. [NPS trails](https://www.nps.gov/hale/planyourvisit/hiking.htm) |
-| 1:30 PM | 🗓️ Arrive at summit — Hiking | Planned | Park at Haleakala Visitor Center lot. You have ~4 hours before sunset for hiking. Choose your adventure: |
-| 5:30 PM | 🗓️ Return to summit area | Planned | Head to Pu'u 'Ula'ula (Red Hill) summit at 10,023ft for sunset. Arrive early — parking fills up. |
-| 6:28 PM | 🗓️ Sunset | Planned | Sunset ~6:28-6:30pm in mid-March. [Sunset times](https://www.timeanddate.com/sun/@5850862?month=3&year=2026) |
-| 7:30 PM | 🗓️ Stargazing | Planned | Wait ~1hr after sunset for full darkness. Park is open 24hrs. World-class dark sky viewing — Milky Way, planets visible. Bring warm layers, hand warmers. [NPS stargazing](https://www.nps.gov/hale/planyourvisit/stargazing.htm) |
-| 8:30 PM | 🗓️ Drive back to Kihei | Planned | ~1.5-2 hrs. Road is winding with no guardrails — drive carefully in the dark. |
-| 10:00–10:30 PM | 🗓️ Arrive back in Kihei | Planned | — |
+| 8:00 AM | ⬜ FREE SLOT | — | ~2.5 hours. Breakfast, pack warm layers for Haleakala (30-50°F at summit). |
+| 10:30 AM | 📌 Surf Lesson | Booked | 2-hr group lesson at The Cove, Kihei. |
+| 12:30 PM | ⬜ FREE SLOT | — | ~30 min. Quick lunch, shower, change. |
+| 1:00 PM | 🗓️ Drive to Haleakala Summit | Planned | ~1.5-2 hrs via Hwy 37 → 377 → 378 (Crater Road). 21mi of switchbacks gaining 6,000ft. $30/vehicle, NO reservation needed for sunset. **Summit Visitor Center is CLOSED through April 12 for remodeling** (restrooms still open). Parking is reduced — arrive early, vehicles have been turned away. [NPS sunset info](https://www.nps.gov/hale/planyourvisit/sunset.htm) |
+| 2:30 PM | 🗓️ Stop at Leleiwi Overlook (on the drive up) | Planned | 0.3mi round trip, ~10-15 min. Easy. Quick crater viewpoint from a different angle than the summit. Trailhead is along the park road. [NPS trails](https://www.nps.gov/hale/planyourvisit/hiking.htm) |
+| 3:00 PM | 🗓️ Arrive at summit — Hiking | Planned | Park at Haleakala Visitor Center lot. You have ~2.5 hours before sunset for hiking. Choose your adventure: |
 
 ### Haleakala Hiking Options (pick one or combine)
 
@@ -134,14 +133,20 @@
 | **Sliding Sands — 1.5-2 miles down** | 3-4mi RT | 2.5-3.5 hrs | Strenuous | Deeper into crater, more dramatic views. Only for fit hikers — tight on time before sunset. |
 | **Halemau'u Trail (to crater viewpoint)** | 2.2mi RT | 1-2 hrs | Moderate | Native shrubland, nene (Hawaiian goose) sightings, Rainbow Bridge (natural land bridge), crater views. **Trailhead is 3.5mi downhill by car from summit (~6 min drive).** |
 
-> ⭐ **Recommended combo: Pa Ka'oao + Sliding Sands (1 mile down)** — ~2.5-3 hrs total. Both trailheads at the same parking lot. Do Pa Ka'oao first (30 min) for panoramic views, then Sliding Sands into the crater (1.5-2 hrs). Back at summit by ~5:00 PM with time to spare for sunset.
+> ⭐ **Recommended combo: Pa Ka'oao + Sliding Sands (1 mile down)** — ~2.5 hrs total. Both trailheads at the same parking lot. Do Pa Ka'oao first (30 min) for panoramic views, then Sliding Sands into the crater (1.5-2 hrs). Back at summit by ~5:30 PM for sunset.
+
+| 5:30 PM | 🗓️ Return to summit area | Planned | Head to Pu'u 'Ula'ula (Red Hill) summit at 10,023ft for sunset. Arrive early — parking fills up. |
+| 6:28 PM | 🗓️ Sunset | Planned | Sunset ~6:28-6:30pm in mid-March. [Sunset times](https://www.timeanddate.com/sun/@5850862?month=3&year=2026) |
+| 7:30 PM | 🗓️ Stargazing | Planned | Wait ~1hr after sunset for full darkness. Park is open 24hrs. World-class dark sky viewing — Milky Way, planets visible. Bring warm layers, hand warmers. [NPS stargazing](https://www.nps.gov/hale/planyourvisit/stargazing.htm) |
+| 8:30 PM | 🗓️ Drive back to Kihei | Planned | ~1.5-2 hrs. Road is winding with no guardrails — drive carefully in the dark. |
+| 10:00–10:30 PM | 🗓️ Arrive back in Kihei | Planned | — |
 
 > 🧥 **What to bring:** Warm layers (fleece, puffer, windbreaker), long pants, beanie, gloves, closed-toe shoes, hand warmers. It's 30-50°F at the summit and drops further after dark. No shade — sunscreen, hat, sunglasses essential. Bring water and snacks (no food in the park).
 
 ---
 
-## Sunday, March 15 — Whale Watching + Surf + Beach Day 🐋🏄‍♂️
-*Route: Kihei → Lahaina (morning) → Kihei (surf + beach afternoon) — out-and-back via Honoapiʻilani Hwy*
+## Sunday, March 15 — Whale Watching + Beach Day 🐋
+*Route: Kihei → Lahaina (morning) → Kihei beaches (afternoon) — out-and-back via Honoapiʻilani Hwy*
 
 | Time | Activity | Type | Details |
 |------|----------|------|---------|
@@ -150,9 +155,9 @@
 | 8:45 AM | 🗓️ Check in at Mala Ramp | Planned | 1223 Front St, Lahaina. Check in 30 min before departure. |
 | 9:15 AM | 📌 Whale Watching — Dive Maui | Booked | 2 hrs. Max 20 guests. March = peak whale season, sightings guaranteed or money back. Departs from Mala Ramp. [TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g29220-d19423275-Whale_Watching_Maui_2_Hour_Small_Group_Raft_Tour_from_Lahaina-Maui_Hawaii.html) |
 | 11:15 AM | 🗓️ Drive back to Kihei | Planned | ~45-60 min |
-| 12:00 PM | ⬜ FREE SLOT | — | ~1 hour. Lunch, change into surf gear |
-| 1:00 PM | 🗓️ Surf Lesson | Planned | 2-hr group lesson at The Cove, Kihei. Maui Surfing Lessons from $89/person — includes board, rash guard, surf shoes. Note: afternoon can be choppier than morning but still fine for beginners. [Book here](https://mauisurfinglessons.com/) · Alt: Maui Wave Riders $105-150/person [Book here](https://www.mauiwaveriders.com/lessons/surf-lessons-kihei/) |
-| 3:00 PM | ⬜ FREE SLOT | — | Rest of afternoon/evening free. Beach time, shopping in Kihei or Wailea, dinner out. |
+| 12:00 PM | ⬜ FREE SLOT | — | Lunch + transition to beach day |
+| 12:30 PM | 🗓️ Beach Afternoon | Planned | Choose your vibe: |
+| 4:00 PM | ⬜ FREE SLOT | — | ~3 hours. Shopping in Kihei or Wailea. Dinner out. |
 
 ### Beach Options for 3/15
 
@@ -184,9 +189,6 @@
 
 | Action | When to Do | Link | Notes |
 |--------|-----------|------|-------|
-| Book Iao Valley reservation (1.5hr slot) | ~Feb 7 (30 days ahead) | [gostateparks.hawaii.gov/iao-valley](https://gostateparks.hawaii.gov/iao-valley) | REQUIRED for non-residents. $5/person + $10/car paid online |
-| Book Wai'anapanapa Black Sand Beach (Morning II slot) | ~Feb 11 (30 days ahead) | [gowaianapanapa.com](https://www.gowaianapanapa.com) | REQUIRED for non-residents. $5/person + $10/car paid online. Download QR code before trip — no cell service at park |
-| Book surf lesson (if doing) | 1-2 weeks ahead | [mauisurfinglessons.com](https://mauisurfinglessons.com/) | Strongly recommended — small operations with limited slots |
 | Reserve bike rental (optional) | 1-2 days ahead | [mauisunriders.com](https://mauisunriders.com/maui-bike-rentals/maui-cruiser-bike-rentals/) | Recommended but cruisers usually available walk-in. 48hr cancellation policy |
 | Haleakala NP — Kipahulu entry ($30/vehicle) | Day of (3/13) | [NPS fees](https://www.nps.gov/hale/planyourvisit/fees.htm) | Can pay at the gate (credit card). Pass valid 3 days — covers Summit on 3/14 too |
 | Haleakala NP — Summit entry for sunset | Day of (3/14) | [NPS sunset info](https://www.nps.gov/hale/planyourvisit/sunset.htm) | No reservation needed for sunset. Free if showing Kipahulu receipt from 3/13. Arrive early for parking — vehicles have been turned away |
@@ -203,7 +205,6 @@
 | Road to Hana — Wai'anapanapa | $10 | $5 entry + $5 share of $10 parking |
 | Haleakala sunset | $15 | Share of $30/vehicle (or free if same receipt from Kipahulu within 3 days) |
 | Beach bike rental | $25 | Per person/day |
-| Surf lesson (optional) | $89-150 | Per person |
 
 ## 🗺️ Routing Logic
 
@@ -212,8 +213,8 @@
 - **3/11:** Simple round trip — Kihei → OGG → Kihei.
 - **3/12:** All south/central Maui — Snorkel at Ma'alaea (15 min from Kihei), return midday, beach biking in Kihei afternoon. Relaxed first full day with friends.
 - **3/13:** Road to Hana — Full day, classic clockwise route. Friday is still lighter traffic than Saturday.
-- **3/14:** Kihei → summit — Full afternoon at Haleakala for hiking (Sliding Sands, Pa Ka'oao, or Halemau'u) + sunset + stargazing.
-- **3/15:** Kihei → Lahaina → Kihei — Whale watching morning, surf lesson early afternoon, beach/shopping rest of day.
+- **3/14:** Kihei → summit — Surf lesson morning in Kihei, then drive to Haleakala for hiking + sunset + stargazing.
+- **3/15:** Out-and-back to west side — Kihei → Lahaina for whale watching (~45-60 min each way via HI-30), then Kihei/Wailea beaches + shopping.
 - **3/16:** Direct — Kihei → OGG.
 
 > **Note:** Haleakala NP entry ($30/vehicle) is valid for 3 days. If you visit Kipahulu on 3/13 (Road to Hana), keep your receipt — it covers Haleakala Summit on 3/14 for free.
