@@ -11,11 +11,14 @@
 - 6:00 PM — Dinner at Morimoto Maui. 3550 Wailea Alanui Dr (Andaz Maui). Contemporary Japanese, resort casual
 - 8:00 PM — Return to Airbnb. ~15 min drive
 
-## Tuesday, March 10 — Twin Falls + Spa Day
+## Tuesday, March 10 — Plantation + Twin Falls + Spa Day
 
-- 7:30 AM — FREE SLOT. ~4.5 hours
-- 12:00 PM — Drive to Twin Falls. ~45-55 min from Kihei
-- 1:00 PM — Twin Falls — Hike + Swim. $10 parking. Hike both falls + swim ~2 hrs. Bring water shoes, swimsuit, towel
+- 7:30 AM — FREE SLOT. ~2 hours
+- 9:30 AM — Drive to Maui Tropical Plantation. ~20 min from Kihei, in Waikapu
+- 10:00 AM — Maui Tropical Plantation — 40 min tour
+- 10:45 AM — Lunch. Near the plantation or in Kahului on the way to Twin Falls
+- 11:45 AM — Drive to Twin Falls. ~30-35 min from Waikapu/Kahului
+- 12:15 PM — Twin Falls — Hike + Swim. $10 parking. Hike both falls + swim ~2 hrs. Bring water shoes, swimsuit, towel
 - 3:15 PM — Drive to Ho'omana Spa. ~25-35 min from Twin Falls
 - 4:00 PM — Arrive at Ho'omana Spa. 1550 Piiholo Rd, Makawao. Arrive 15 min early
 - 4:15 PM — Couples Massage at Ho'omana Spa. 80-min Signature Lomi Lomi massage
@@ -32,7 +35,7 @@
 
 ## Thursday, March 12 — Snorkeling + Beach Biking
 
-- 6:30 AM — Drive to Ma'alaea Harbor. ~15-20 min. Paid parking (~$2)
+- 6:30 AM — Drive to Ma'alaea Harbor. ~15-20 min. Paid parking ($1/hr, NO CASH — QR code or pay station)
 - 7:30 AM — Check in for snorkel tour. 130 Maalaea Rd, Wailuku (North Dock). Look for large white catamaran with black and gold trim
 - 8:00 AM — Turtle Snorkeling — Pride of Maui. 5 hrs. Molokini Crater + Turtle Town. Includes breakfast, BBQ lunch, open bar, snorkel gear, water slide
 - 1:00 PM — Return to Ma'alaea Harbor
@@ -45,31 +48,34 @@
 
 - 6:30 AM — Depart Kihei. ~30 min to Paia. Gas up before leaving
 - 7:00 AM — Paia Town — Breakfast. Coffee + food to go. Last reliable food/restrooms until Hana
-- 7:30 AM — Begin Road to Hana drive. Full day trip, 10-13 hours total
-- 8:15 AM — Waikamoi Falls (MM10) — Quick Stop. Wade/dip feet. ~10 min. Free. Optional swim: fewer crowds this early
+- 7:30 AM — Begin Road to Hana drive. Full day trip. ⚠️ Construction at MM19.5 causing 15-20 min traffic holds weekdays 8am-3pm
+- 8:15 AM — Waikamoi Falls (MM10) — Quick Stop. Wade/dip feet. ~10 min. Free
 - 9:00 AM — Ke'anae Peninsula + Aunty Sandy's Banana Bread (MM17). Lava rock coastline + banana bread. ~20 min
-- 9:30 AM — Upper Waikani Falls / Three Bears (MM19) — Quick Stop. Dip feet or view from above. ~15 min. Free. Optional swim: most dramatic setting
-- 10:00 AM — Pua'a Ka'a State Wayside (MM22.5) — Main Swim Stop 🏊. Easy access, restrooms, picnic tables. ~30 min. Free
-- 11:00 AM — Wai'anapanapa State Park — Black Sand Beach (MM32). RESERVATION REQUIRED. $10/car + $5/person. Morning II slot (10am-12:30pm). Download QR code before — no cell service
-- 12:00 PM — Hana Town — Lunch + Gas. Last gas station. Restaurants close by 5pm. ~45-60 min
-- 1:00 PM — Wailua Falls (MM45) — Drive-by Viewing. 80ft waterfall from bridge. 1 min stop
-- 1:30 PM — Haleakala NP — Kipahulu District. $30/vehicle, no reservation needed
-- 1:45 PM — Kuloa Point Trail — Pools of Ohe'o Viewing. Short easy walk. ~30 min
-- 2:15 PM — Pipiwai Trail Hike. 3.8mi out-and-back, ~2 hrs. Bamboo forest, Waimoku Falls (400ft). Wear hiking shoes
-- 4:15 PM — Begin return drive. Same route back via Hana Highway. ~2.5-3 hrs nonstop. No streetlights
-- 7:00 PM — Dinner stop in Paia
-- 7:30–8:00 PM — Arrive back in Kihei
+- 9:30 AM — Upper Waikani Falls / Three Bears (MM19) — Quick Stop. Dip feet or view from above. ~15 min. Free
+- 10:00 AM — Pua'a Ka'a State Wayside (MM22.5) — Main Swim Stop 🏊. 1 hour swim. Easy access, restrooms, picnic tables. Free
+- 11:00 AM — Drive to Hana Town. ~45 min
+- 11:45 AM — Hana Town — Lunch + Gas. Last gas station. Restaurants close by 5pm. ~45-60 min
+- 12:45 PM — Wailua Falls (MM45) — Drive-by Viewing. 80ft waterfall from bridge. 1 min stop
+- 1:15 PM — Haleakala NP — Kipahulu District. $30/vehicle at the gate (credit card). No reservation needed
+- 1:30 PM — Kuloa Point Trail — Pools of Ohe'o Viewing. Short easy walk. ~30 min
+- 2:00 PM — Pipiwai Trail Hike. 3.8mi out-and-back, ~2 hrs. Bamboo forest, Waimoku Falls (400ft). Wear hiking shoes
+- 4:00 PM — Drive to Wai'anapanapa. ~45-60 min from Kipahulu via Hana
+- 4:45 PM — Wai'anapanapa State Park — Black Sand Beach (MM32). Afternoon II slot 3-6pm. Last entry 5:30pm. ~1 hr at beach. Must leave by 6pm. Download QR code before — no cell service
+- 5:45 PM — Depart Wai'anapanapa. Return via Hana Highway. ~2.5-3 hrs. No streetlights — drive carefully
+- 8:15 PM — Dinner stop in Paia
+- 8:30–9:00 PM — Arrive back in Kihei
 
-## Saturday, March 14 — Surf + Haleakala Sunset & Stargazing
+## Saturday, March 14 — Surf + Haleakala Hiking + Sunset & Stargazing
 
-- 8:00 AM — FREE SLOT. ~1 hour. Breakfast
-- 9:00 AM — Surf Lesson. 2-hr group lesson at The Cove, Kihei. From $89/person. Includes board, rash guard, surf shoes
-- 11:00 AM — FREE SLOT. ~2 hours. Lunch, rest, shower. Pack warm layers (30-50°F at summit)
-- 1:00 PM — Drive to Haleakala Summit. ~1.5-2 hrs via Hwy 37 → 377 → 378. $30/vehicle, no reservation needed for sunset
-- 2:30 PM — Arrive at summit — Hiking. Sliding Sands Trail into the crater, 2-3 miles down. Return is uphill at 10,000ft. ~2-3 hrs. Or shorter: Pa Ka'oao (White Hill) 0.5mi, ~20 min
+- 8:00 AM — FREE SLOT. ~2.5 hours. Breakfast, pack warm layers (30-50°F at summit)
+- 10:30 AM — Surf Lesson. 2-hr group lesson at The Cove, Kihei
+- 12:30 PM — FREE SLOT. ~30 min. Quick lunch, shower, change
+- 1:00 PM — Drive to Haleakala Summit. ~1.5-2 hrs via Hwy 37 → 377 → 378. $30/vehicle (free if showing Kipahulu receipt from 3/13). Summit Visitor Center CLOSED through April 12 (restrooms open). Parking reduced — arrive early
+- 2:30 PM — Leleiwi Overlook (on the drive up). 0.3mi RT, ~10-15 min. Quick crater viewpoint
+- 3:00 PM — Arrive at summit — Hiking. ~2.5 hrs before sunset. Options: Pa Ka'oao (0.4mi, 15-30 min, easy, 360° views) / Sliding Sands 1 mile down (2mi RT, 1.5-2 hrs, moderate, volcanic crater) / Halemau'u to viewpoint (2.2mi RT, 1-2 hrs, moderate, Rainbow Bridge). Recommended combo: Pa Ka'oao + Sliding Sands 1 mile (~2.5 hrs)
 - 5:30 PM — Return to summit area. Pu'u 'Ula'ula (Red Hill) at 10,023ft for sunset
 - 6:28 PM — Sunset
-- 7:30 PM — Stargazing. Wait ~1hr after sunset for full darkness. Park open 24hrs. Milky Way visible
+- 7:30 PM — Stargazing. Wait ~1hr for full darkness. Park open 24hrs. Milky Way visible
 - 8:30 PM — Drive back to Kihei. ~1.5-2 hrs. Winding road, no guardrails, drive carefully
 - 10:00–10:30 PM — Arrive back in Kihei
 
