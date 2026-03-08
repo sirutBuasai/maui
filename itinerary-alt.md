@@ -86,7 +86,7 @@ Cancel the surf lesson (Sat 3/14) since it's the windiest day and conditions wil
 |-----|----------|
 | Thu 3/12 | Snorkeling 8am (keep — boats handle moderate weather) + indoor afternoon |
 | Fri 3/13 | Road to Hana (shortened if needed) + Wai'anapanapa (locked) |
-| Sat 3/14 | ~~Surf~~ → FREE morning. Haleakala afternoon — **game-time decision.** Check NPS conditions + call park morning-of. If summit road open and winds manageable, go. If socked in or dangerous winds, pivot to indoor day. |
+| Sat 3/14 | [Cancel Surf] → FREE morning. Haleakala afternoon — **game-time decision.** Check NPS conditions + call park morning-of. If summit road open and winds manageable, go. If socked in or dangerous winds, pivot to indoor day. |
 | Sun 3/15 | Whale watching 9:15am (keep — Lahaina is leeward/sheltered) + beach/shopping PM |
 
 **Haleakala storm reality check:**
@@ -113,8 +113,8 @@ If the storm is as bad as NWS predicts through Sunday, the whale watching raft (
 |-----|----------|
 | Thu 3/12 | Snorkeling 8am (keep) + indoor afternoon |
 | Fri 3/13 | Road to Hana (shortened) + Wai'anapanapa (locked) |
-| Sat 3/14 | ~~Surf~~ → Haleakala full day (leave 11am, more hiking time, summit above clouds) |
-| Sun 3/15 | ~~Whale watching~~ → Full free day. Best for whatever the weather allows: beach if clearing, indoor if not. Maui Ocean Center, shopping, spa, or rebook whale watching if conditions improve last-minute. |
+| Sat 3/14 | [Cancel Surf] → Haleakala full day (leave 11am, more hiking time, summit above clouds) |
+| Sun 3/15 | [Cancel Whale watching] → Full free day. Best for whatever the weather allows: beach if clearing, indoor if not. Maui Ocean Center, shopping, spa, or rebook whale watching if conditions improve last-minute. |
 
 **Benefit:** No wasted mornings waiting for cancellation calls. Maximum flexibility on Sunday. No cost.
 
