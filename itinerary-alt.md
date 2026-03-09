@@ -1,216 +1,260 @@
-# 🌧️ Maui Itinerary — Weather Analysis & Alternatives (March 9–16, 2026)
+# 🌧️ Maui Itinerary — Weather-Adapted Plan (March 9–16, 2026)
 
-## ⚠️ CRITICAL: Kona Storm Warning
+> **This is the revised itinerary** accounting for the Kona storm system (Tue 3/10 – Sun 3/15). Activities from the original itinerary have been reshuffled to maximize good weather windows. See the weather table and precautions below.
 
-NWS Honolulu has issued a major weather warning: A **powerful kona storm** will impact all of Hawaii from Tuesday March 10 through the weekend. This is a "significant statewide weather event" lasting 5+ days.
+## ⚠️ Kona Storm Advisory
 
-**Threats:** Flash flooding, 4-12 inches total rainfall (Tue-Sat), strong southerly winds (potentially warning-level Fri-Sun), thunderstorms (possibly severe), power outages.
+NWS Honolulu has issued warnings for a **powerful kona storm** impacting all of Hawaii from Tuesday March 10 through the weekend. This is a significant statewide weather event.
 
----
-
-## Weather Forecast (NWS Honolulu, issued Mar 8, 2026)
-
-| Day | High | Rain % | Conditions | Wind | Severity |
-|-----|------|--------|------------|------|----------|
-| Mon 3/9 | 82°F | 30% | Scattered PM showers, haze, partly sunny | ENE 5-13 mph | ✅ Good — last day before storm |
-| Tue 3/10 | 82°F | 40%→70% | Showers increasing, **thunderstorms at night** | ESE 5-7 mph → SSW | ⚠️ OK daytime, bad evening |
-| Wed 3/11 | 80°F | 70-80% | **Showers + thunderstorms, heavy rain** all day | SSE 6-9 mph | ❌ Bad |
-| Thu 3/12 | 82°F | 70-80% | **Showers + thunderstorms, heavy rain** | SSE 5-7 mph | ❌ Bad |
-| Fri 3/13 | 81°F | **100%** | **Heavy rain + thunderstorms all day** | S 6-18 mph, gusts 25 | ❌ Worst day |
-| Sat 3/14 | 81°F | 90% | **Heavy rain + thunderstorms, BREEZY** | S 18-21 mph, gusts 29 | ❌ Worst wind |
-| Sun 3/15 | — | — | Storm continues per NWS discussion | Strong S/SW winds | ❌ Likely bad |
-| Mon 3/16 | — | — | Beyond forecast range | — | Unknown |
-
-**This is significantly worse than the earlier LocalConditions.com forecast.** NWS is the authoritative source.
+**Threats:** Flash flooding, 4–12 inches total rainfall (Tue–Sat), strong southerly winds (gusts 25–32 mph by Fri–Sat), thunderstorms (possibly severe).
 
 ---
 
-## Activity-by-Weather Compatibility
+## 🌤️ Weather Forecast Table
 
-| Activity | Rain OK? | Wind threshold | Cancellation trigger | Storm week outlook |
-|----------|----------|---------------|---------------------|-------------------|
-| Snorkeling (boat) | Light rain OK | >20 knots (23 mph) = cancelled | Small Craft Advisory | ⚠️ Thu 3/12: borderline. Operator may divert to Coral Gardens instead of Molokini |
-| Surfing (Kihei) | Rain OK | >15 mph = choppy/bad for beginners | Instructor discretion | ❌ Sat 3/14: 18-21 mph + gusts 29 = likely cancelled or miserable |
-| Whale watching (raft) | Light rain OK | >20 knots = cancelled | Small Craft Advisory | ⚠️ Sun 3/15: strong S/SW winds, raft is most weather-sensitive |
-| Road to Hana | Light rain OK | N/A | Flash floods, rockfall, road closure | ❌ Fri 3/13: 100% rain, heavy. Flash flood risk HIGH. Road closure possible |
-| Haleakala summit | Rain below irrelevant | >40 mph gusts = dangerous | Park closes in extreme weather | ⚠️ Sat 3/14: summit often above clouds, but 29 mph gusts at sea level = worse at summit |
-| Beach biking | Light drizzle OK | >15 mph = miserable | Self-guided, your call | ❌ Thu 3/12: 15 mph + showers = not fun |
-| Hiking (trails) | Moderate rain OK | N/A | Flash flood warning, trail closure | ❌ Pipiwai Fri 3/13: extreme flash flood risk with 100% heavy rain |
+*Sources: AccuWeather hourly, NWS/weather.gov, timeanddate.com, weather.com. Updated Mar 8, 2026.*
 
----
+| Day | High/Low | Precip % | Rain Timing | Wind | Conditions | Severity |
+|-----|----------|----------|-------------|------|------------|----------|
+| Mon 3/9 | 82°F / 64°F | 30% | Scattered PM showers | ENE 5–13 mph | Mostly sunny, haze | ✅ Good |
+| Tue 3/10 | 82°F / 67°F | 40→70% | **Clear through 1 PM**, rain ~2 PM, thunderstorms at night | ESE 5–7 mph | Mostly cloudy | ✅ Good AM / ⚠️ PM |
+| Wed 3/11 | 80°F / 66°F | 63–89% | Intermittent showers from ~7 AM, heaviest ~1 PM & 6–7 PM. Gaps between showers. | SSW 10–18 mph, gusts 30–32 | Cloudy, scattered showers | ⚠️ Moderate |
+| Thu 3/12 | 82°F / 67°F | 25–55% | Patchy morning, mostly dry midday, drizzle possible PM | SSE 5–7 mph | Cloudy, lightest rain day | ✅ Best storm day |
+| Fri 3/13 | 81°F / 69°F | 96% | Rain all day, some heavy, thunderstorms | S 6–18 mph, gusts 25 | Heavy showers + tstorms | ❌ Bad |
+| Sat 3/14 | 81°F / 69°F | 75–87% | Heavy showers all day, thunderstorms | S 18–21 mph, gusts 26–32 | Worst wind + rain | ❌ Worst day |
+| Sun 3/15 | 82°F / 67°F | 75–94% | Conflicting data — Apple Weather says rain breaks ~6 AM; other sources show showers continuing. Eases by afternoon. | SSW 9–15 mph, easing PM | Cloudy, showers likely | ⚠️ Uncertain |
 
-## What's Locked vs. Movable
-
-**LOCKED (Mon-Tue, cannot change):**
-- Mon 3/9: Iao Valley, Morimoto dinner
-- Tue 3/10: Plantation tour (10am), Ho'omana Spa (4:15pm)
-
-**LOCKED (partial refund only):**
-- Fri 3/13: Wai'anapanapa Black Sand Beach (3-6pm)
-
-**BOOKED but free cancellation 24hrs prior:**
-- Thu 3/12: Snorkeling — Pride of Maui (8am)
-- Sat 3/14: Surf lesson (10:30am)
-- Sun 3/15: Whale watching (9:15am)
-
-**NOT BOOKED:**
-- Thu 3/12: Beach biking (afternoon)
-- Sat 3/14: Haleakala hiking/sunset (afternoon)
-- Any free slots
+> **Note on Sunday:** Apple Weather and some sources suggest an early morning break, while timeanddate.com shows Sunday as potentially the heaviest rainfall day (1.56 in). Plan for rain but hope for the best — check conditions morning-of.
 
 ---
 
-## Recommended Reshuffle Strategy
+## 🛡️ Weather Precautions
 
-### The core problem:
-Friday 3/13 is your Road to Hana day AND the worst weather day (100% heavy rain). Wai'anapanapa is locked to this day. Road to Hana in heavy rain with flash flood warnings is dangerous — Pipiwai Trail and waterfall swimming would likely be unsafe.
-
-### Option A: Keep current schedule, adapt activities (NO cancellations, $0 cost)
-
-This is the cheapest option. Accept the weather and adjust expectations:
-
-| Day | Keep | Modify |
-|-----|------|--------|
-| Thu 3/12 | Snorkeling 8am (boats run in moderate conditions) | Skip beach biking → indoor alternative (Maui Brewing, shopping) |
-| Fri 3/13 | Drive Road to Hana + Wai'anapanapa (locked) | Skip waterfall swimming, skip Pipiwai if flash flood warning. Do Hana town + black sand beach only as a shorter day. Check HDOT road alerts morning-of. |
-| Sat 3/14 | Surf 10:30am (instructor may cancel — have backup plan) | Haleakala summit may be above clouds — check NPS conditions. If winds too strong at summit, skip sunset/stargazing, do hiking only and come back early. |
-| Sun 3/15 | Whale watching 9:15am (raft may cancel in strong winds) | If cancelled, free refund. Do beach day / indoor activities instead. |
-
-**Risk:** Pipiwai Trail likely unsafe. Surf and whale watching may get cancelled by operators. You'd still do Road to Hana but it would be a rain-soaked drive with limited stops.
-
-### Option B: Cancel surf, keep everything else (1 cancellation, $0 cost)
-
-Cancel the surf lesson (Sat 3/14) since it's the windiest day and conditions will be bad for beginners.
-
-| Day | Activity |
-|-----|----------|
-| Thu 3/12 | Snorkeling 8am (keep — boats handle moderate weather) + indoor afternoon |
-| Fri 3/13 | Road to Hana (shortened if needed) + Wai'anapanapa (locked) |
-| Sat 3/14 | [Cancel Surf] → FREE morning. Haleakala afternoon — **game-time decision.** Check NPS conditions + call park morning-of. If summit road open and winds manageable, go. If socked in or dangerous winds, pivot to indoor day. |
-| Sun 3/15 | Whale watching 9:15am (keep — Lahaina is leeward/sheltered) + beach/shopping PM |
-
-**Haleakala storm reality check:**
-- Summit is usually above clouds due to trade wind inversion at ~5,000-7,000 ft. **But kona storms break the inversion layer** — clouds can extend above 10,000 ft. No guarantee of clear skies.
-- Sea-level gusts of 29 mph = likely 40-50+ mph at the summit. Combined with 30-50°F temps = wind chill in the teens. Hypothermia risk if underdressed.
-- Sliding Sands trail handles rain better than dirt trails (volcanic cinder), but wet cinder is slippery on the steep climb back up. Trail is fully exposed — no shelter from wind/rain.
-- Flash flooding is NOT a risk on Sliding Sands (ridge/slope, not a valley). But visibility and wind are the real dangers.
-- **Park closes the summit road in extreme weather.** Check before driving up.
-
-**Morning-of decision for Haleakala (Sat 3/14):**
-1. Check [NPS conditions](https://www.nps.gov/hale/planyourvisit/conditions.htm)
-2. Call the park: (808) 572-4400
-3. Check [NWS summit zone forecast (HIZ022)](https://forecast.weather.gov/MapClick.php?zoneid=HIZ022)
-4. If summit road is open + wind gusts under ~40 mph → GO. Dress warmly. Do Pa Ka'oao + partial Sliding Sands. Skip sunset/stargazing if conditions deteriorate.
-5. If road closed or gusts 50+ mph → SKIP. Do indoor day: Maui Ocean Center, Maui Brewing, shopping, spa.
-
-**Benefit:** Removes the activity most likely to be cancelled anyway. Gives you a relaxed morning and flexibility for Haleakala game-time call. No cost.
-
-### Option C: Cancel surf + whale watching, protect Sunday (2 cancellations, $0 cost)
-
-If the storm is as bad as NWS predicts through Sunday, the whale watching raft (20 passengers, most weather-sensitive boat type) may get cancelled anyway.
-
-| Day | Activity |
-|-----|----------|
-| Thu 3/12 | Snorkeling 8am (keep) + indoor afternoon |
-| Fri 3/13 | Road to Hana (shortened) + Wai'anapanapa (locked) |
-| Sat 3/14 | [Cancel Surf] → Haleakala full day (leave 11am, more hiking time, summit above clouds) |
-| Sun 3/15 | [Cancel Whale watching] → Full free day. Best for whatever the weather allows: beach if clearing, indoor if not. Maui Ocean Center, shopping, spa, or rebook whale watching if conditions improve last-minute. |
-
-**Benefit:** No wasted mornings waiting for cancellation calls. Maximum flexibility on Sunday. No cost.
+| Precaution | Details |
+|------------|---------|
+| **Flash flood alerts** | Monitor NWS Honolulu: https://www.weather.gov/hfo/ — Do NOT cross flooded roads or streams |
+| **Road to Hana (Tue)** | Check HDOT road alerts morning-of: https://hidot.hawaii.gov/weather-traffic/ — Rockfall and road closures possible in heavy rain |
+| **Haleakala (Thu)** | Check NPS conditions: https://www.nps.gov/hale/planyourvisit/conditions.htm — Call (808) 572-4400. Summit is 30–50°F, colder with wind chill. Bring warm layers. |
+| **Ocean activities** | Operators will cancel if unsafe. Check morning-of: Pride of Maui (808) 242-0955, Dive Maui whale watching (808) 661-7333 |
+| **General** | Pack rain jackets, waterproof phone cases, water shoes. Download offline maps — cell service is spotty on Hana Hwy and at Haleakala summit. |
 
 ---
 
-## Recommended: Option B
-
-**Cancel surf only.** Here's why:
-
-1. **Surf is most likely to be cancelled anyway** — 18-21 mph winds with 29 mph gusts at The Cove is not beginner-friendly. Instructor will likely cancel.
-2. **Whale watching has a better chance** — Lahaina is on the leeward side, naturally sheltered from southerly winds. Small raft is weather-sensitive but the captain will make the call morning-of. Worth keeping the booking and seeing what happens.
-3. **Snorkeling on Thursday is the safest water activity** — winds are 5-7 mph, seas should still be manageable early in the storm. Morning departure = calmest conditions.
-4. **Haleakala becomes a game-time decision** — no surf means a free morning. Check conditions Saturday AM. If summit is clear, leave early and get 4+ hours of hiking. If it's socked in, you have a full day for indoor alternatives instead of being stuck between a bad surf session and a bad summit.
-5. **$0 cost** — free cancellation 24hrs prior.
-
----
-
-## Indoor Alternatives by Day
-
-### Wednesday 3/11 — Afternoon (after 11:30am)
-*Friends just arrived, group fun*
-
-| Activity | Hours | Cost | Booking? | Notes |
-|----------|-------|------|----------|-------|
-| Maui Ocean Center | 9am-5pm (last entry 4pm) | $50/adult | Yes (online) | Behind the Scenes Tour at 11:30am & 1:30pm. ~15 min from Kihei. [mauioceancenter.com](https://mauioceancenter.com/) |
-| Hali'imaile Distilling | 10am-4pm (Mon-Fri) | $17 | Recommended | Distillery tour + 3 spirit tastings. ~25 min from Kihei. [haliimailedistilling.com](https://haliimailedistilling.com/pages/tours-tastings) |
-| Mystery Maui Escape Room | ~10:30am-9pm | $40/person | Yes (online) | 60 min private rooms, 2-6 players. Wailuku, ~20 min from Kihei. [mysterymaui.com](http://mysterymaui.com/) |
-| Maui Brewing Co (restaurant) | 11am-10pm | Food/drinks | No | Happy hour 3:30-5:30pm ($2 off beers, $12 pizzas). IN Kihei. No tours on weekdays. [mbcrestaurants.com](https://www.mbcrestaurants.com/kihei/) |
-
-### Thursday 3/12 — Afternoon (after 1:30pm)
-*If beach biking rained out*
-
-| Activity | Hours | Cost | Booking? | Notes |
-|----------|-------|------|----------|-------|
-| Maui Ocean Center | 9am-5pm | $50/adult | Yes | Behind the Scenes at 1:30pm works perfectly. [mauioceancenter.com](https://mauioceancenter.com/) |
-| Ultimate Air Trampoline Park | 12pm-6pm | $25/hr | No | Active indoor fun. Wailuku, ~20 min from Kihei. [ultimateairmaui.com](https://ultimateairmaui.com/hours-pricing) |
-| Hali'imaile Distilling | 10am-4pm | $17 | Recommended | Arrive by ~3pm for last tour. [haliimailedistilling.com](https://haliimailedistilling.com/pages/tours-tastings) |
-| Mystery Maui Escape Room | ~10:30am-9pm | $40/person | Yes | [mysterymaui.com](http://mysterymaui.com/) |
-
-### Friday 3/13 — Full day alternative
-*If Road to Hana too dangerous (flash floods). Note: Wai'anapanapa is locked — partial refund only if skipped.*
+## Monday, March 9 — Arrival Day ✅
+*Weather: Mostly sunny, scattered PM showers. Best day of the week.*
+*Route: OGG → Kahului → Iao Valley → Kihei → Wailea*
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 10am | Hali'imaile Distilling | Tour + tasting, $17. Last day it's open (Mon-Fri only). |
-| 12pm | Lunch at Maui Brewing Co | Happy hour 3:30-5:30pm. IN Kihei. |
-| 1:30pm | Maui Ocean Center | Behind the Scenes Tour at 1:30pm. $50/adult. |
-| 4pm | Mystery Maui Escape Room | $40/person, 60 min. Wailuku. |
-| 6pm | Dinner out | — |
-
-### Saturday 3/14 — Full day alternative
-*If both surf and Haleakala cancelled*
-
-| Time | Activity | Details |
-|------|----------|---------|
-| 9am | Maui Ocean Center | Open 9-5. Behind the Scenes at 11:30am. $50/adult. |
-| 1pm | Maui Brewing Co VIP Tour | **Weekends only.** $20/person. 1pm or 2:30pm slots. Book ahead. [mauibrewingco.com](https://mauibrewingco.com/brewery-tours/) |
-| 3pm | Ultimate Air Trampoline Park | Open 12-9pm (extended Sat hours). $25/hr. |
-| 5pm | Mystery Maui Escape Room | $40/person. |
-| 7pm | Dinner out | — |
-
-### Sunday 3/15 — Afternoon (after 12pm)
-*If whale watching cancelled and beach rained out*
-
-| Time | Activity | Details |
-|------|----------|---------|
-| 1pm | Maui Brewing Co VIP Tour | **Weekends only.** $20/person. Book ahead. |
-| 3pm | ⭐ Maui Pops Orchestra "Hawaiian Soul" at MACC | Castle Theater (INDOOR). $37-80/ticket. Featuring Paula Fuga. Book at [mauiarts.org](https://mauiarts.org/show-details/maui-pops-orchestra-hawaiian-soul) |
-| 5:30pm | Ultimate Air Trampoline Park | Open 12-6pm. $25/hr. |
+| 10:30 AM | 📌 Arrive at OGG Airport | Pick up rental car |
+| 11:00 AM | 🗓️ Foodland Kaahumanu | 90 Kane St, Kahului. Grab food/snacks for the trip. |
+| 11:30 AM | 🗓️ Iao Valley State Park | **REQUIRES advance reservation** — 1.5hr timed slots. $5/person + $10/car. Main trail 0.6mi, 30–90 min. [Reserve here](https://gostateparks.hawaii.gov/iao-valley) |
+| 1:30 PM | ⬜ FREE SLOT | ~3 hours. Explore Kahului, early beach time, rest at Airbnb. |
+| 4:30 PM | 📌 Check in at Airbnb | Near Kamaole Beach Park III, Kihei |
+| 5:15 PM | 🗓️ Drive to Wailea | ~15 min to Andaz Maui |
+| 6:00 PM | 📌 Dinner at Morimoto Maui | 3550 Wailea Alanui Dr. Contemporary Japanese, $31–50 entrees. [Website](https://www.morimotomaui.com) |
+| 8:00 PM | 🗓️ Return to Airbnb | ~15 min drive |
 
 ---
 
-## Quick Reference: What's Open When
+## Tuesday, March 10 — Modified Road to Hana + Spa Day 🌿
+*Weather: Clear through 1 PM, rain develops ~2 PM. Best morning of the storm week — use it wisely.*
+*Route: Kihei → Paia → Hana Highway east → Hana Town (turnaround) → Ho'omana Spa (Makawao) → Kihei*
 
-| Activity | Wed | Thu | Fri | Sat | Sun |
-|----------|-----|-----|-----|-----|-----|
-| Maui Ocean Center | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Behind the Scenes (MOC) | ✅ | ✅ | ✅ | ✅ | ❌ |
-| Hali'imaile Distilling | ✅ | ✅ | ✅ | ❌ | ❌ |
-| MBC Brewery Tour | ❌ | ❌ | ❌ | ✅ | ✅ |
-| MBC Restaurant | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Mystery Maui Escape Room | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Ultimate Air Trampoline | ✅ 12-6 | ✅ 12-6 | ✅ 12-9 | ✅ 12-9 | ✅ 12-6 |
-| MACC Events | ❌ | ❌ | ⚠️ Outdoor movie 7pm | ❌ | ✅ Maui Pops 3pm (indoor) |
+> ⚠️ **Key constraint:** Must arrive at Ho'omana Spa by 3:45 PM (15 min early for 4:00 PM check-in). Hana Town to spa is ~2–2.5 hrs driving. **Leave Hana Town by 1:00 PM latest.**
+
+> ⚠️ **Construction alert:** Rock scaling work at Mile Marker 19.5 (near Three Bears Falls) — intermittent 15–20 min traffic holds weekdays 8am–3pm. Budget extra time. [HDOT alerts](https://hidot.hawaii.gov/weather-traffic/)
+
+| Time | Activity | Details |
+|------|----------|---------|
+| 6:00 AM | 🗓️ Depart Kihei | ~30 min to Paia. Gas up before leaving. Early start to maximize clear weather. |
+| 6:30 AM | 🗓️ Paia Town — Breakfast | Grab coffee + food to go. Last reliable food/restrooms until Hana. |
+| 7:00 AM | 🗓️ Begin Road to Hana | Drive the classic route east. Weather is clear — enjoy the views. |
+| 7:45 AM | 🗓️ Twin Falls (MM2) — Hike + Possible Swim 🏊 | Gates open 7:10 AM. $10 parking (55 spots, first-come). Hike to both falls (~45 min). **Swim here if you feel like it** — play it by ear. If you swim here, skip swimming at Pua'a Ka'a later. Bring water shoes, swimsuit, towel. [Website](https://www.twinfallsmaui.net/) |
+| 9:00 AM | 🗓️ Waikamoi Falls (MM10) — Quick Stop | Short trail to base, wade/dip feet. ~10 min. Free. |
+| 9:30 AM | 🗓️ Ke'anae Peninsula + Aunty Sandy's Banana Bread (MM17) | Stunning lava rock coastline + famous banana bread. ~20 min. |
+| 10:00 AM | 🗓️ Upper Waikani Falls / Three Bears (MM19) — Quick Stop | Three parallel 70ft falls. View from above or scramble down. ~15 min. |
+| 10:30 AM | 🗓️ Pua'a Ka'a State Wayside (MM22.5) — Hike to Falls + Possible Swim 🏊 | Hike to the waterfall. **If you didn't swim at Twin Falls, swim here.** If you already swam, just enjoy the hike and view. Restrooms, picnic tables. Open 6am–6pm. Free. ~30–45 min. |
+| 11:15 AM | 🗓️ Drive to Hana Town | ~45 min from Pua'a Ka'a. |
+| 12:00 PM | 🗓️ Hana Town — Lunch + Gas | Last gas station (Hasegawa General Store area). Grab lunch. ~45 min. |
+| **1:00 PM** | **🗓️ Depart Hana Town — Turn back** | **Hard deadline.** Begin return drive to make spa on time. Rain likely starting ~2 PM — you'll be driving back through it. |
+| 3:00 PM | 🗓️ Arrive at Ho'omana Spa area | ~2 hrs from Hana Town to Makawao via Hana Hwy → Hwy 36 → Hwy 37 → Hwy 390. |
+| 3:45 PM | 🗓️ Check in at Ho'omana Spa | 1550 Piiholo Rd, Makawao. Arrive 15 min early. [Website](https://hoomanaspamaui.com) |
+| 4:00 PM | 📌 Couples Massage at Ho'omana Spa | 80-min Signature Lomi Lomi massage. |
+| 5:30 PM | 🗓️ Drive back to Kihei | ~30–40 min from Makawao |
+| 6:15 PM | ⬜ FREE SLOT | Evening free. Dinner in Kihei. |
+
+> 🏊 **Swimming decision:** Pick ONE — Twin Falls or Pua'a Ka'a. Twin Falls is earlier (drier, more energy). Pua'a Ka'a has easier access and restrooms. Play it by ear — if the water looks good and you're feeling it, jump in. If not, just hike and enjoy the scenery.
 
 ---
 
-## Morning-Of Decision Checklist
+## Wednesday, March 11 — Turtle Snorkeling + Free Afternoon 🐢
+*Weather: Intermittent showers from ~7 AM (50% chance), heaviest ~1 PM & 6–7 PM. Gaps between showers. Not an all-day washout.*
+*Route: Kihei → Ma'alaea Harbor → Kihei*
+
+> ⚠️ **Weather note:** Showers are intermittent, not continuous. Snorkeling in light rain is fine — underwater visibility is the concern. The operator (Pride of Maui) will cancel if conditions are unsafe. Check morning-of: (808) 242-0955.
+
+| Time | Activity | Details |
+|------|----------|---------|
+| 6:00 AM | 🗓️ Drive to Ma'alaea Harbor | ~15–20 min from Kihei. Paid parking at harbor (QR code, no cash). |
+| 7:00 AM | 🗓️ Check in for snorkel tour | Check in at 130 Maalaea Rd, Wailuku (Ma'alaea Harbor, North Dock) by 7:30 AM. Look for the large white catamaran with black and gold trim. |
+| 7:30 AM | 📌 Turtle Snorkeling — Pride of Maui | 5 hrs. Molokini Crater + Turtle Town. Includes breakfast, BBQ lunch, open bar after snorkeling, snorkel gear, water slide. 65ft catamaran. March = bonus whale watching from the boat. [TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g29220-d16822053-Maui_Molokini_and_Turtle_Town_Snorkeling_aboard_Pride_of_Maui-Maui_Hawaii.html) |
+| 12:30 PM | 🗓️ Return to Ma'alaea Harbor | — |
+| 1:00 PM | 🗓️ Drive back to Kihei | ~15–20 min |
+| 1:30 PM | ⬜ FREE AFTERNOON | Rain likely intensifying through the afternoon. Options: rest at Airbnb, explore Kihei shops, Maui Brewing Co happy hour (3:30–5:30 PM, $2 off beers, $12 pizzas — IN Kihei). |
+
+> **Friends arrive today.** Original plan had friends arriving at OGG at 10:30 AM. **Coordinate pickup** — if snorkeling ends at 12:30 PM, you may need to arrange separate transport for friends or adjust their arrival time. If friends can get a rideshare/shuttle from OGG to Kihei, that works. Otherwise, one person may need to skip snorkeling for airport pickup.
+
+---
+
+## Thursday, March 12 — Haleakala Sunrise + Hiking 🌅🥾
+*Weather: Lightest rain day of the storm (25% precip). Patchy morning clouds, mostly dry midday. Best day for Haleakala.*
+*Route: Kihei → Haleakala Summit → Kihei*
+
+> ⚠️ **Sunrise reservation REQUIRED.** Reservations open 60 days ahead at [recreation.gov](https://www.recreation.gov/ticket/facility/253731). $1.50/reservation + $30/vehicle park entry. **Book ASAP if not already reserved.** Sunrise is at ~6:27 AM — arrive by 6:00 AM. Gates open at 3:00 AM.
+
+> ⚠️ **Summit conditions:** 30–50°F at summit, colder with wind chill. Bring warm layers (fleece, puffer, windbreaker), long pants, beanie, gloves, closed-toe shoes, hand warmers. No food in the park — bring snacks and water.
+
+| Time | Activity | Details |
+|------|----------|---------|
+| 3:30 AM | 🗓️ Depart Kihei | ~1.5–2 hrs to summit via Hwy 37 → 377 → 378 (Crater Road). 21mi of switchbacks gaining 6,000ft. |
+| 5:30 AM | 🗓️ Arrive at summit | Park at Haleakala Visitor Center lot. **Summit Visitor Center is CLOSED through April 12 for remodeling** (restrooms still open). Parking is reduced — arrive early. |
+| 6:27 AM | 🌅 Sunrise | Watch from Pu'u 'Ula'ula (Red Hill) summit at 10,023ft. |
+| 7:00 AM | 🗓️ Hiking — Pa Ka'oao (White Hill) | 0.4mi RT, 15–30 min. Easy. 360° panoramic views, ancient Hawaiian stone shelters. Trailhead at visitor center lot. |
+| 7:30 AM | 🗓️ Hiking — Sliding Sands Trail (1 mile down) ⭐ | 2mi RT, 1.5–2 hrs. Moderate. Otherworldly volcanic landscape, colorful cinder, silversword plants. **Return is uphill at 10,000ft — budget 2x the time going back up.** Wet cinder can be slippery. |
+| 9:30 AM | 🗓️ Leleiwi Overlook (on the drive down) | 0.3mi RT, ~10–15 min. Quick crater viewpoint from a different angle. |
+| 10:00 AM | 🗓️ Optional: Halemau'u Trail | 2.2mi RT, 1–2 hrs. Trailhead is 3.5mi downhill by car from summit. Native shrubland, nene sightings, crater views. **Only if you have energy and time.** |
+| 12:00 PM | 🗓️ Depart Haleakala | Head back to Kihei before afternoon weather deteriorates. |
+| 1:30 PM | ⬜ FREE AFTERNOON | Rest at Airbnb. Rain/drizzle possible in the afternoon. Relax, nap, dinner in Kihei. |
+
+> 🧥 **Packing list for Haleakala:** Warm layers (fleece + puffer + windbreaker), long pants, beanie, gloves, closed-toe hiking shoes, hand warmers, sunscreen, hat, sunglasses, water, snacks. It's 30–50°F at the summit and drops further with wind.
+
+---
+
+## Friday, March 13 — Free Day (Storm) 🌧️
+*Weather: Rain all day (96% chance), thunderstorms, S winds 6–18 mph with gusts to 25 mph. Stay flexible.*
+
+| Time | Activity | Details |
+|------|----------|---------|
+| All Day | ⬜ FREE DAY | Heavy rain + thunderstorms expected. Indoor activities recommended. |
+
+### Indoor Options:
+| Activity | Hours | Cost | Notes |
+|----------|-------|------|-------|
+| Hali'imaile Distilling | 10am–4pm (Mon–Fri only) | $17 | Distillery tour + 3 spirit tastings. ~25 min from Kihei. **Last day it's open this week.** [Website](https://haliimailedistilling.com/pages/tours-tastings) |
+| Maui Ocean Center | 9am–5pm (last entry 4pm) | $50/adult | Behind the Scenes Tour at 11:30am & 1:30pm. ~15 min from Kihei. [Website](https://mauioceancenter.com/) |
+| Mystery Maui Escape Room | ~10:30am–9pm | $40/person | 60 min private rooms, 2–6 players. Wailuku, ~20 min from Kihei. [Website](http://mysterymaui.com/) |
+| Maui Brewing Co | 11am–10pm | Food/drinks | Happy hour 3:30–5:30pm. IN Kihei. [Website](https://www.mbcrestaurants.com/kihei/) |
+| Ultimate Air Trampoline Park | 12pm–9pm (Fri hours) | $25/hr | Active indoor fun. Wailuku, ~20 min from Kihei. [Website](https://ultimateairmaui.com/hours-pricing) |
+
+---
+
+## Saturday, March 14 — Free Day (Storm) 🌧️
+*Weather: Worst day — heavy showers + strongest winds (gusts 26–32 mph) + thunderstorms.*
+
+| Time | Activity | Details |
+|------|----------|---------|
+| All Day | ⬜ FREE DAY | Worst weather day of the trip. Indoor activities recommended. |
+
+### Indoor Options:
+| Activity | Hours | Cost | Notes |
+|----------|-------|------|-------|
+| Maui Ocean Center | 9am–5pm | $50/adult | If you didn't go Friday. [Website](https://mauioceancenter.com/) |
+| Maui Brewing Co VIP Tour | 1pm or 2:30pm | $20/person | **Weekends only.** Book ahead. [Website](https://mauibrewingco.com/brewery-tours/) |
+| Ultimate Air Trampoline Park | 12pm–9pm (Sat hours) | $25/hr | [Website](https://ultimateairmaui.com/hours-pricing) |
+| Mystery Maui Escape Room | ~10:30am–9pm | $40/person | [Website](http://mysterymaui.com/) |
+
+---
+
+## Sunday, March 15 — Whale Watching + Beach Day 🐋
+*Weather: Uncertain — Apple Weather suggests rain breaks ~6 AM; other sources show showers continuing through morning (75–94%). Eases by afternoon. Check morning-of.*
+*Route: Kihei → Lahaina (morning) → Kihei beaches (afternoon)*
+
+> ⚠️ **Morning-of decision:** Check weather at 6 AM. If rain has broken and winds are manageable, proceed with whale watching. If heavy rain/wind continues, the operator may cancel anyway — call Dive Maui at (808) 661-7333. Lahaina is on the leeward (sheltered) side, which helps.
+
+| Time | Activity | Details |
+|------|----------|---------|
+| 7:00 AM | ⬜ FREE SLOT | Breakfast, pack for the day. Check weather. |
+| 7:45 AM | 🗓️ Drive to Lahaina | ~45–60 min from Kihei via Honoapiʻilani Hwy (HI-30). |
+| 8:45 AM | 🗓️ Check in at Mala Ramp | 1223 Front St, Lahaina. Check in 30 min before departure. |
+| 9:15 AM | 📌 Whale Watching — Dive Maui | 2 hrs. Max 20 guests. March = peak whale season, sightings guaranteed or money back. [TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g29220-d19423275-Whale_Watching_Maui_2_Hour_Small_Group_Raft_Tour_from_Lahaina-Maui_Hawaii.html) |
+| 11:15 AM | 🗓️ Drive back to Kihei | ~45–60 min |
+| 12:00 PM | ⬜ FREE SLOT | Lunch + transition to beach day |
+| 12:30 PM | 🗓️ Beach Afternoon | Weather should be improving by afternoon. Choose your vibe: |
+| 4:00 PM | ⬜ FREE SLOT | Shopping in Kihei or Wailea. Dinner out. Last full evening! |
+
+### Beach Options:
+| Category | Beach | Why |
+|----------|-------|-----|
+| 🏖️ Popular | Kamaole Beach Park III | Large grassy area, playground, BBQ, lifeguard, good bodyboarding |
+| 🤫 Private | Keawakapu Beach | 3/4 mile golden sand, less crowded, romantic, good snorkeling at north end |
+| 🐢 Activities | Maluaka Beach (Turtle Beach) | Best spot to see green sea turtles. ~15 min south in Makena |
+| 🤿 Activities | Ulua Beach / Mokapu Beach | Premier snorkeling — shallow reefs, turtles, eagle rays. Wailea, ~10 min south |
+
+---
+
+## Monday, March 16 — Departure Day ✈️
+*Route: Kihei → OGG (direct)*
+
+| Time | Activity | Details |
+|------|----------|---------|
+| 7:00 AM | ⬜ FREE SLOT | Pack up, breakfast, last beach walk |
+| 9:30 AM | 🗓️ Depart Airbnb | Allow extra time for rental car return |
+| 10:00 AM | 🗓️ Return rental car at OGG | ~25–30 min drive |
+| 10:30 AM | 🗓️ Arrive at airport | Check in, security, souvenirs |
+| 12:00 PM | 📌 Flight departs | 🤙 A hui hou, Maui! |
+
+---
+
+## 📋 What Changed from Original Itinerary
+
+| Original Plan | New Plan | Reason |
+|---------------|----------|--------|
+| Tue 3/10: Plantation Tour + Twin Falls + Spa | Tue 3/10: **Modified Road to Hana** + Spa | Best clear weather window (through 1 PM). Cancelled plantation tour to start early. |
+| Wed 3/11: Friends arrive, free day | Wed 3/11: **Turtle Snorkeling 7:30 AM** + free PM | Moved snorkeling earlier in the week. Intermittent showers, not a washout. |
+| Thu 3/12: Snorkeling 8am + Beach Biking 3pm | Thu 3/12: **Haleakala Sunrise + Hiking** until noon | Lightest rain day (25%). Best window for summit. Cancelled beach biking. |
+| Fri 3/13: Road to Hana (full day) | Fri 3/13: **Free day** | 96% rain, thunderstorms. Road to Hana moved to Tuesday. |
+| Sat 3/14: Surf + Haleakala sunset/stargazing | Sat 3/14: **Free day** | Worst wind/rain day. Cancelled surf. Haleakala moved to Thursday sunrise. |
+| Sun 3/15: Whale watching + beach | Sun 3/15: **Same** (whale watching + beach) | Keeping as planned. Weather uncertain but operator will cancel if unsafe. |
+
+### Cancelled/Dropped Activities:
+- ❌ Maui Tropical Plantation Tour (Tue) — cut to make room for Road to Hana
+- ❌ Wai'anapanapa Black Sand Beach — doesn't fit Tuesday schedule (both 7–10 AM and 3–6 PM slots conflict)
+- ❌ Beach Biking (Thu) — replaced by Haleakala
+- ❌ Surf Lesson (Sat) — worst wind day, likely would be cancelled anyway
+- ❌ Haleakala sunset/stargazing (Sat) — moved to sunrise on Thu instead
+- ❌ Kipahulu/Pipiwai Trail — Road to Hana shortened to turnaround at Hana Town
+
+### Activities That Need Rebooking:
+| Activity | Original | New | Action Needed |
+|----------|----------|-----|---------------|
+| Turtle Snorkeling (Pride of Maui) | Thu 3/12, 8:00 AM | **Wed 3/11, 7:30 AM** | Rebook to Wednesday |
+| Haleakala Summit | Sat 3/14, afternoon (no reservation needed for sunset) | **Thu 3/12, sunrise** | **Book sunrise reservation** at [recreation.gov](https://www.recreation.gov/ticket/facility/253731) — $1.50/reservation |
+| Wai'anapanapa Black Sand Beach | Fri 3/13, 3–6 PM | **Dropped** | Cancel reservation (partial refund) |
+
+---
+
+## 🔍 Morning-Of Decision Checklist
 
 Check these resources each morning before committing to outdoor activities:
 
-- **NWS Honolulu warnings:** https://www.weather.gov/hfo/
-- **HDOT road alerts (Hana Hwy):** https://hidot.hawaii.gov/weather-traffic/
-- **Haleakala NPS conditions:** https://www.nps.gov/hale/planyourvisit/conditions.htm
-- **DLNR park closures:** https://dlnr.hawaii.gov/dsp/parks/maui/
-- **Maui radar:** Windy app or weather.com radar
-- **Pride of Maui status:** (808) 242-0955
-- **Dive Maui (whale watching) status:** (808) 661-7333
-- **Surf lesson status:** Contact instructor day before
+| Resource | Link | Phone |
+|----------|------|-------|
+| NWS Honolulu warnings | https://www.weather.gov/hfo/ | — |
+| HDOT road alerts (Hana Hwy) | https://hidot.hawaii.gov/weather-traffic/ | — |
+| Haleakala NPS conditions | https://www.nps.gov/hale/planyourvisit/conditions.htm | (808) 572-4400 |
+| DLNR park closures | https://dlnr.hawaii.gov/dsp/parks/maui/ | — |
+| Pride of Maui (snorkeling) | — | (808) 242-0955 |
+| Dive Maui (whale watching) | — | (808) 661-7333 |
+| Maui radar | Windy app or weather.com radar | — |
+
+---
+
+## 💰 Estimated Costs (Per Person)
+
+| Item | Cost | Notes |
+|------|------|-------|
+| Iao Valley | $10 | $5 entry + $5 share of $10 parking |
+| Twin Falls | $5 | Share of $10 parking |
+| Haleakala NP (sunrise) | $16.50 | $1.50 reservation + $15 share of $30/vehicle |
+| Indoor activities (Fri/Sat) | $50–130 | Depending on choices (Ocean Center $50, Distillery $17, Escape Room $40, etc.) |
