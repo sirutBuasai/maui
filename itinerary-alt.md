@@ -258,3 +258,23 @@ Check these resources each morning before committing to outdoor activities:
 | Twin Falls | $5 | Share of $10 parking |
 | Haleakala NP (sunrise) | $16.50 | $1.50 reservation + $15 share of $30/vehicle |
 | Indoor activities (Fri/Sat) | $50–130 | Depending on choices (Ocean Center $50, Distillery $17, Escape Room $40, etc.) |
+
+---
+
+## 🚨 Contingency: If Friends Don't Come
+
+If friends cancel due to the storm, the following bookings need action:
+
+### Rebook (reduce to 2 people):
+| Activity | Day | Current Booking | Action | Contact |
+|----------|-----|----------------|--------|---------|
+| Turtle Snorkeling — Pride of Maui | Wed 3/11, 7:30 AM | 4 people | Rebook for 2 or cancel 2 spots | (808) 242-0955 |
+| Whale Watching — Dive Maui | Sun 3/15, 9:15 AM | 4 people | Rebook for 2 | (808) 661-7333 |
+
+### No longer needed:
+| Item | Day | Notes |
+|------|-----|-------|
+| Airport pickup at OGG | Wed 3/11, 10:30 AM | Frees up the entire day — no coordination needed |
+
+### Schedule impact:
+- **Wednesday 3/11 is fully free after snorkeling** (no airport pickup). Extra flexibility to move activities or add something if weather cooperates.
